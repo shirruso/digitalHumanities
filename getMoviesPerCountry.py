@@ -42,6 +42,7 @@ def get_movies():
     for country in countries:
         get_movies_per_country(country)
 
+
 # The function creates a json file which contains all the movies of a particular country according to the years in
 # 'years' array
 
@@ -69,7 +70,17 @@ def get_movies_per_years(country, years_range):
     movies = response_json['results']
     filtered_movies = []
     for movie in movies:
+        response = requests.get('https://imdb-api.com/en/API/FullCast/k_ao1xicrn/%s' % movie['id'])
+        response_json = response.json();
+        main_character = response_json['actors'][0]
+        print( main_character['id'])
+        response = requests.get('https://api.themoviedb.org/3/find/%s?api_key=dafbfad599cde5d98a5d1c68cef38b1c&external_source=imdb_id' % main_character['id'])
+        response_json = response.json()
+        main_character_details = response_json['person_results']
+        print(main_character_details[0]['name'])
         data = {'id': movie['id'],
-                'title': movie['title']}
+                'title': movie['title'],
+                'main_character_name': main_character_details[0]['name'],
+                'main_character_gender': main_character_details[0]['gender']}
         filtered_movies.append(data)
     return filtered_movies

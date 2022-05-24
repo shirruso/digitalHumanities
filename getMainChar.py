@@ -35,8 +35,8 @@ def get_main_character(movie_id):
         return {}
     response_json = response.json()
     # the main character is located first in 'cast' array
-    if len(response_json['cast']) == 0:
-        return {}
+    # if len(response_json['cast']) == 0:
+    #     return {}
     main_character = response_json['cast'][0]
     name = main_character['name']
     # 1 - Female, 2 - Male
