@@ -1,0 +1,75 @@
+{
+    "1960_1979": [
+        {
+            "id": "tt0072057",
+            "title": "Rabia Balkhi",
+            "name": "Sima Shadan",
+            "gender": 0
+        }
+    ],
+    "1980_1999": [
+        {
+            "id": "tt0171945",
+            "title": "Zharkoye leto v Kabule",
+            "name": "Oleg Zhakov",
+            "gender": 2
+        }
+    ],
+    "2000_2009": [
+        {
+            "id": "tt0368913",
+            "title": "Osama",
+            "name": "Marina Golbahari",
+            "gender": 1
+        },
+        {
+            "id": "tt0420715",
+            "title": "Earth and Ashes",
+            "name": "Abdul Ghani",
+            "gender": 0
+        },
+        {
+            "id": "tt1217635",
+            "title": "Kabuli kid",
+            "name": "Val\u00e9ry Schatz",
+            "gender": 2
+        },
+        {
+            "id": "tt0860578",
+            "title": "Zolykha's Secret",
+            "name": "Marina Golbahari",
+            "gender": 1
+        }
+    ],
+    "2010_2012": [
+        {
+            "id": "tt1748043",
+            "title": "Hell and Back Again",
+            "name": "Ashley Harris",
+            "gender": 1
+        },
+        {
+            "id": "tt1598435",
+            "title": "The Black Tulip",
+            "name": "Haji Gul Aser",
+            "gender": 0
+        }
+    ],
+    "2013_2015": [
+        {
+            "id": "tt3004140",
+            "title": "Love City, Jalalabad",
+            "name": "George Gittoes",
+            "gender": 2
+        }
+    ],
+    "2016_2018": [],
+    "2019_2022": [
+        {
+            "id": "tt13376084",
+            "title": "When Pomegranates Howl",
+            "name": "ARAFAT FAIZ",
+            "gender": 0
+        }
+    ]
+}
