@@ -1,0 +1,68 @@
+{
+    "1960_1979": [],
+    "1980_1999": [
+        {
+            "id": "tt0171945",
+            "title": "Zharkoye leto v Kabule",
+            "main_character_name": "Oleg Zhakov",
+            "main_character_gender": 2
+        }
+    ],
+    "2000_2009": [
+        {
+            "id": "tt0368913",
+            "title": "Osama",
+            "main_character_name": "Marina Golbahari",
+            "main_character_gender": 1
+        },
+        {
+            "id": "tt0420715",
+            "title": "Earth and Ashes",
+            "main_character_name": "Abdul Ghani",
+            "main_character_gender": 0
+        },
+        {
+            "id": "tt1217635",
+            "title": "Kabuli kid",
+            "main_character_name": "Val\u00e9ry Schatz",
+            "main_character_gender": 2
+        },
+        {
+            "id": "tt0860578",
+            "title": "Zolykha's Secret",
+            "main_character_name": "Marina Golbahari",
+            "main_character_gender": 1
+        }
+    ],
+    "2010_2012": [
+        {
+            "id": "tt1748043",
+            "title": "Hell and Back Again",
+            "main_character_name": "Ashley Harris",
+            "main_character_gender": 1
+        },
+        {
+            "id": "tt1598435",
+            "title": "The Black Tulip",
+            "main_character_name": "Haji Gul Aser",
+            "main_character_gender": 0
+        }
+    ],
+    "2013_2015": [
+        {
+            "id": "tt3004140",
+            "title": "Love City, Jalalabad",
+            "main_character_name": "George Gittoes",
+            "main_character_gender": 2
+        }
+    ],
+    "2016_2018": [],
+    "2019_2022": [
+        {
+            "id": "tt13376084",
+            "title": "When Pomegranates Howl",
+            "main_character_name": "ARAFAT FAIZ",
+            "main_character_gender": 0
+        }
+    ]
+}
