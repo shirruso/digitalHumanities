@@ -92,6 +92,7 @@ def get_movies_per_years(country, years_range):
         data = {'id': movie['id'],
                 'title': movie['title'],
                 'main_character_name': main_character['name'],
-                'main_character_gender': main_character['gender']}
+                'main_character_gender': main_character['gender'],
+                'main_character_role': main_character['character']}
         filtered_movies.append(data)
     return filtered_movies
