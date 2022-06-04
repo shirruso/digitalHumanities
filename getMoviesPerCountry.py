@@ -1,5 +1,6 @@
 import requests
 import json
+import imdb
 
 keys = {'k_64p78757', 'k_ao1xicrn', 'k_cc9uodvl'}
 
@@ -11,12 +12,12 @@ class Country:
 
 
 countries = [
-             # Country('Afghanistan', 'af', 'ps')
+              Country('Afghanistan', 'af', 'ps')
              # Country('Egypt', 'eg', 'ar')
              # Country('Lebanon', 'lb', 'ar'),
              # Country('Turkey', 'tr', 'tr')
              # Country('Iran', 'ir', 'ar'),
-            Country('France', 'fr', 'fr')
+            # Country('France', 'fr', 'fr')
              # Country('Germany', 'de', 'nl'),
              # Country('Italy', 'it', 'it'),
              # Country('United Kingdom', 'gb', 'en'),
@@ -64,7 +65,7 @@ def get_movies_by_pages(country, years_range):
     release_data_from, release_data_to = years_range[0:4], years_range[5:]
     for i in range(0, num_of_pages):
         response = requests.get(
-            'https://imdb-api.com/API/AdvancedSearch/k_64p78757?release_date=%s-01-01,'
+            'https://imdb-api.com/API/AdvancedSearch/k_ao1xicrn?release_date=%s-01-01,'
             '%s-12-31&countries=%s&languages=%s&count=250&start=%d' % (
                 release_data_from, release_data_to, country.shortcut,
                 country.language, i * 250 + 1))
@@ -89,10 +90,20 @@ def get_movies_per_years(country, years_range):
         if (not response.ok) or len(response_json['cast']) == 0:
             continue
         main_character = response_json['cast'][0]
+        role_from_imdb = get_role_from_imdb(movie['id'])
         data = {'id': movie['id'],
                 'title': movie['title'],
                 'main_character_name': main_character['name'],
                 'main_character_gender': main_character['gender'],
-                'main_character_role': main_character['character']}
+                'main_character_role': [main_character['character'], role_from_imdb]}
         filtered_movies.append(data)
     return filtered_movies
+
+
+def get_role_from_imdb (movie_id):
+    movie_id = int(movie_id[2:])
+    ia = imdb.IMDb()
+    result = ia.get_movie(movie_id)
+    main_character = result['cast'][0]
+    print(main_character.currentRole)
+    return str(main_character.currentRole)
