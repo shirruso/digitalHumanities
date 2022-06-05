@@ -5,10 +5,7 @@
             "title": "Rabia Balkhi",
             "main_character_name": "Sima Shadan",
             "main_character_gender": 0,
-            "main_character_role": [
-                "Rabia",
-                "Rabia"
-            ]
+            "main_character_role": "reporter"
         }
     ],
     "1980_1999": [
@@ -17,10 +14,7 @@
             "title": "Zharkoye leto v Kabule",
             "main_character_name": "Oleg Zhakov",
             "main_character_gender": 2,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "flight attendant"
         }
     ],
     "2000_2009": [
@@ -29,40 +23,21 @@
             "title": "Osama",
             "main_character_name": "Marina Golbahari",
             "main_character_gender": 1,
-            "main_character_role": [
-                "Osama",
-                "Osama"
-            ]
-        },
-        {
-            "id": "tt0420715",
-            "title": "Earth and Ashes",
-            "main_character_name": "Abdul Ghani",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "Dastaguir",
-                "Dastaguir"
-            ]
+            "main_character_role": "visual effects supervisor"
         },
         {
             "id": "tt1217635",
             "title": "Kabuli kid",
-            "main_character_name": "Val\u00e9ry Schatz",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Matthieu",
-                "Khaled"
-            ]
+            "main_character_name": "Haji Gul Aser",
+            "main_character_gender": 0,
+            "main_character_role": "software developer"
         },
         {
             "id": "tt0860578",
             "title": "Zolykha's Secret",
-            "main_character_name": "Marina Golbahari",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_name": "Dad'ullah Ahmadzai",
+            "main_character_gender": 0,
+            "main_character_role": "special effects supervisor"
         }
     ],
     "2010_2012": [
@@ -71,45 +46,25 @@
             "title": "The Black Tulip",
             "main_character_name": "Haji Gul Aser",
             "main_character_gender": 0,
-            "main_character_role": [
-                "Hadar Mansouri",
-                "Hadar Mansouri"
-            ]
+            "main_character_role": "samurai"
         },
         {
             "id": "tt1748043",
             "title": "Hell and Back Again",
-            "main_character_name": "Ashley Harris",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "Herself",
-                "Self"
-            ]
-        }
-    ],
-    "2013_2015": [
-        {
-            "id": "tt3004140",
-            "title": "Love City, Jalalabad",
-            "main_character_name": "George Gittoes",
+            "main_character_name": "Nathan Harris",
             "main_character_gender": 2,
-            "main_character_role": [
-                "Self",
-                "Reporter"
-            ]
+            "main_character_role": "writer"
         }
     ],
+    "2013_2015": [],
     "2016_2018": [],
     "2019_2022": [
         {
             "id": "tt13376084",
             "title": "When Pomegranates Howl",
-            "main_character_name": "ARAFAT FAIZ",
+            "main_character_name": "Arafat Faiz",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Hewad"
-            ]
+            "main_character_role": "barber"
         }
     ]
 }
