@@ -2,7 +2,7 @@ import requests
 import json
 import imdb
 
-keys = {'k_64p78757', 'k_ao1xicrn', 'k_cc9uodvl'}
+keys = {'k_64p78757', 'k_ao1xicrn', 'k_cc9uodvl', 'k_sej8mhp2', 'k_ay2kvfye'}
 
 
 class Country:
@@ -13,10 +13,10 @@ class Country:
 
 
 countries = [
-    Country('Afghanistan', 'af', 'ps')
-    # Country('Egypt', 'eg', 'ar')
+    # Country('Afghanistan', 'af', 'ps')
+    #  Country('Egypt', 'eg', 'ar')
     # Country('Lebanon', 'lb', 'ar'),
-    # Country('Turkey', 'tr', 'tr')
+    Country('Turkey', 'tr', 'tr')
     # Country('Iran', 'ir', 'ar'),
     # Country('France', 'fr', 'fr')
     # Country('Germany', 'de', 'nl'),
@@ -66,7 +66,7 @@ def get_movies_by_pages(country, years_range):
     release_data_from, release_data_to = years_range[0:4], years_range[5:]
     for i in range(0, num_of_pages):
         response = requests.get(
-            'https://imdb-api.com/API/AdvancedSearch/k_64p78757?release_date=%s-01-01,'
+            'https://imdb-api.com/API/AdvancedSearch/k_sej8mhp2?release_date=%s-01-01,'
             '%s-12-31&countries=%s&languages=%s&count=250&start=%d' % (
                 release_data_from, release_data_to, country.shortcut,
                 country.language, i * 250 + 1))
@@ -96,8 +96,11 @@ def get_movies_per_years(country, years_range):
         main_character_gender, role_from_tmdb = get_gender_and_role_tmdb(response_json['cast'], main_character_name)
         if main_character_gender is None:
             continue
+
         data = {'id': movie['id'],
                 'title': movie['title'],
+                'release_year': movie['description'][1:-1],
+                'plot': movie['plot'],
                 'main_character_name': main_character_name,
                 'main_character_gender': main_character_gender,
                 'main_character_role': [role_from_tmdb, role_from_imdb]}
@@ -112,6 +115,8 @@ def get_role_imdb(movie_id):
     movie_id = int(movie_id[2:])
     ia = imdb.IMDb()
     result = ia.get_movie(movie_id)
+    if not ('cast' in result.keys()):
+        return None, None
     if len(result['cast']) == 0:
         return None, None
     main_character = result['cast'][0]
@@ -125,7 +130,7 @@ def get_role_imdb(movie_id):
 
 def get_gender_and_role_tmdb(movie_cast, character_name):
     for person in movie_cast:
-        if person['known_for_department'] != 'Acting':
+        if (not ('known_for_department' in person.keys())) or person['known_for_department'] != 'Acting':
             return None, None
         if person['name'].casefold() == character_name.casefold():
             return person['gender'], person['character']
