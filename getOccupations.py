@@ -6,6 +6,7 @@ from getMoviesPerCountry import countries, years
 
 occupations = ['football player', 'bank manger', 'computer system analyst']
 
+
 def get_results(endpoint_url, query):
     sparql = SPARQLWrapper(endpoint_url)
     sparql.setQuery(query)
@@ -43,6 +44,10 @@ def create_occupations_array():
     occupations.extend(diff)
     print(occupations)
 
+
+# The function gets an occupation that may consist of more than one word.
+# Then, extracting the occupation without the adjectives attached to it.
+# This occupation will eventually will be added to the main array- 'occupations'
 
 def get_sub_occupations(occupation):
     new_occupation = []
@@ -113,17 +118,21 @@ def get_character_occupation(movie_desc):
     return None
 
 
+# The function receives a sentence and search if one of the occupations appears in the sentence.
+# If so, the function returns this occupation, otherwise the function returns 'None'.
 def get_character_occupation_by_sentence(sentence):
     if (sentence is None) or len(sentence) == 0:
         return None
-    for occupation in occupations:
-        sentence_arr = sentence.lower().split(' ')
-        occupation_arr = occupation.lower().split(' ')
-        if len(sentence_arr) >= len(occupation_arr) and is_a_in_x(occupation_arr, sentence_arr):
-            return occupation
+        for occupation in occupations:
+            sentence_arr = sentence.lower().split(' ')
+            occupation_arr = occupation.lower().split(' ')
+            if len(sentence_arr) >= len(occupation_arr) and is_a_in_x(occupation_arr, sentence_arr):
+                return occupation
     return None
 
 
+# The function gets the name of a movie and its year of release.
+# Searches for his plot according to Wikipedia and returns it if any.
 def get_plot(film_name, year):
     possibles = ['Plot', 'Synopsis', 'Plot synopsis', 'Plot summary',
                  'Story', 'Plotline', 'The Beginning', 'Summary',
@@ -146,12 +155,14 @@ def get_plot(film_name, year):
             if page.section(j) is not None:
                 plot = page.section(j).replace('\n', '').replace("\'", "")
     except:
-        print('error occurred')
         plot = None
 
     return plot
 
 
+# The function gets the character name and the plot of the movie and
+# searches if there is an occupation that appears next to character name in the plot of the movie .
+# If so, returns the occupation, otherwise returns 'None'.
 def get_occupation_by_plot(character_name, plot):
     if (character_name is None) or len(character_name) == 0 or plot is None:
         return None
@@ -163,6 +174,8 @@ def get_occupation_by_plot(character_name, plot):
     return None
 
 
+# The function gets a character name and plot of a movie in which the character participates,
+# and returns all the sentences that the character appears in the plot.
 def get_sentences_in_plot_contain_character(character_name, plot):
     sentences_character_appears_in = []
     if plot:

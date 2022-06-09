@@ -6,37 +6,38 @@ keys = {'k_64p78757', 'k_ao1xicrn', 'k_cc9uodvl', 'k_sej8mhp2', 'k_ay2kvfye'}
 
 
 class Country:
-    def __init__(self, name, shortcut, language):
+    def __init__(self, name, shortcut, language, wikidata_key):
         self.name = name
         self.shortcut = shortcut
         self.language = language
+        self.wikidata_key = wikidata_key
 
 
 countries = [
-    # Country('Afghanistan', 'af', 'ps')
-    #  Country('Egypt', 'eg', 'ar')
-    # Country('Lebanon', 'lb', 'ar'),
-    Country('Turkey', 'tr', 'tr')
-    # Country('Iran', 'ir', 'ar'),
-    # Country('France', 'fr', 'fr')
-    # Country('Germany', 'de', 'nl'),
-    # Country('Italy', 'it', 'it'),
-    # Country('United Kingdom', 'gb', 'en'),
-    # Country('Greece', 'gr', 'el'),
-    # Country('Poland', 'pl', 'pl'),
-    # Country('Russia', 'ru', 'ru'),
-    # Country('Japan', 'ja', 'ja'),
-    # Country('India', 'in', 'hi'),
-    # Country('China', 'cn', 'zh'),
-    # Country('United_States', 'us', 'en'),
-    # Country('Mexico', 'mx', 'es'),
-    # Country('Canada', 'ca', 'en'),
-    # Country('Brazil', 'br', 'pt'),
-    # Country('Argentina', 'ar', 'es'),
-    # Country('Australia', 'au', 'en'),
-    # Country('South_Africa', 'za', 'af'),
-    # Country('Ethiopia', 'et', 'am'),
-    # Country('Nigeria', 'ng', 'en')
+    # Country('Afghanistan', 'af', 'ps'ת ,'Q889')
+     Country('Egypt', 'eg', 'ar', 'Q79')
+    # Country('Lebanon', 'lb', 'ar', 'Q822'),
+    # Country('Turkey', 'tr', 'tr', 'Q43')
+    # Country('Iran', 'ir', 'ar', 'Q794'),
+    # Country('France', 'fr', 'fr', 'Q142')
+    # Country('Germany', 'de', 'nl', 'Q183'),
+    # Country('Italy', 'it', 'it', 'Q38'),
+    # Country('United Kingdom', 'gb', 'en', 'Q145'),
+    # Country('Greece', 'gr', 'el', 'Q41'),
+    # Country('Poland', 'pl', 'pl', 'Q36'),
+    # Country('Russia', 'ru', 'ru','Q159'),
+    # Country('Japan', 'ja', 'ja', 'Q17'),
+    # Country('India', 'in', 'hi', 'Q668'),
+    # Country('China', 'cn', 'zh', 'Q148),
+    # Country('United_States', 'us', 'en', 'Q30'),
+    # Country('Mexico', 'mx', 'es', 'Q96'),
+    # Country('Canada', 'ca', 'en', 'Q16'),
+    # Country('Brazil', 'br', 'pt', 'Q155'),
+    # Country('Argentina', 'ar', 'es', 'Q414'),
+    # Country('Australia', 'au', 'en', 'Q408'),
+    # Country('South_Africa', 'za', 'af', 'Q258'),
+    # Country('Ethiopia', 'et', 'am', 'Q115'),
+    # Country('Nigeria', 'ng', 'en', 'Q1033')
 ]
 
 years = ['1960_1979', '1980_1999', '2000_2009', '2010_2012', '2013_2015', '2016_2018', '2019_2022']
