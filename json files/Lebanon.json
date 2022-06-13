@@ -1,18 +1,6 @@
 {
     "1960_1979": [
         {
-            "id": "tt0074896",
-            "title": "The Message",
-            "release_year": "1976",
-            "plot": "This epic historical drama chronicles the life and times of Prophet Muhammad and serves as an introduction to early Islamic history.",
-            "main_character_name": "Anthony Quinn",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Hamza",
-                "Hamza"
-            ]
-        },
-        {
             "id": "tt0477749",
             "title": "The Lady of the Black Moons",
             "release_year": "1971",
@@ -22,18 +10,6 @@
             "main_character_role": [
                 "Aida",
                 "Aida"
-            ]
-        },
-        {
-            "id": "tt0169599",
-            "title": "Beirut Oh Beirut",
-            "release_year": "1975",
-            "plot": "In the aftermath of the 1967 defeat, four young Lebanese try to figure out their places in a society whose rules seem to have changed. It proved to be an extraordinary anticipation of the ... See full summary",
-            "main_character_name": "Ezzat El Alaili",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "",
-                "Kamal"
             ]
         },
         {
@@ -78,6 +54,18 @@
             "release_year": "1974",
             "plot": null,
             "main_character_name": "Muhammad Mevla",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": "tt4138278",
+            "title": "Al-Jaiza Ul-Kubra",
+            "release_year": "1974",
+            "plot": "The Grand Prize charts the exploits of an all-wrestler gang of bikers as they traversed dusty Levantine highways.",
+            "main_character_name": "Ali Diab",
             "main_character_gender": 0,
             "main_character_role": [
                 "",
@@ -155,18 +143,6 @@
                 "",
                 ""
             ]
-        },
-        {
-            "id": "tt0169969",
-            "title": "Greetings to Kamal Jumblatt",
-            "release_year": "1977",
-            "plot": "A documentary film eulogizing the life of Kamal Jumblat.",
-            "main_character_name": "Yasser Arafat",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "Himself",
-                "Self"
-            ]
         }
     ],
     "1980_1999": [
@@ -228,30 +204,6 @@
             "main_character_role": [
                 "",
                 "Nawar"
-            ]
-        },
-        {
-            "id": "tt0088673",
-            "title": "Adolescente, sucre d'amour",
-            "release_year": "1985",
-            "plot": null,
-            "main_character_name": "Jacques Weber",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Karim",
-                "Karim"
-            ]
-        },
-        {
-            "id": "tt0109111",
-            "title": "Ana El Awan",
-            "release_year": "1994",
-            "plot": "Camille is a composer going back to his homeland Lebanon to write a song about his country. Raya is looking for her lost son. They meet, fall in love, and discover the despair of the people... See full summary",
-            "main_character_name": "Simon Abkarian",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "",
-                "Camille"
             ]
         }
     ],
@@ -353,6 +305,18 @@
             ]
         },
         {
+            "id": "tt6044642",
+            "title": "Ghanoujet Baya",
+            "release_year": "2006",
+            "plot": "Rana Baraket is a daddy spoiled girl,beautiful,rich,irresponsible girl has to face life after her dad went bankrupt ,forced to find jobs ,but her lack of experience will put her in a ... See full summary",
+            "main_character_name": "Rita Barsona",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Rana Barakat"
+            ]
+        },
+        {
             "id": "tt0318116",
             "title": "Terra incognita",
             "release_year": "2002",
@@ -377,24 +341,12 @@
             ]
         },
         {
-            "id": "tt1056434",
-            "title": "Melodrama Habibi",
+            "id": "tt1974216",
+            "title": "Bahr al nojoum",
             "release_year": "2008",
-            "plot": "In the 1970's, Bruno Caprice was briefly successful with his first and only hit single, \"Quand tu t'en vas\". Completely forgotten today, he earns a living as a receptionist in a luxury ... See full summary",
-            "main_character_name": "Patrick Chesnais",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Bruno Caprice",
-                "Bruno Caprice"
-            ]
-        },
-        {
-            "id": "tt0477653",
-            "title": "Frontiers of Dreams and Fears",
-            "release_year": "2001",
-            "plot": "Offering a rare glimpse into one side of the Middle East conflict, Frontiers of Dreams and Fears explores the lives of a group of Palestinian children growing up in refugee camps. The film ... See full summary",
-            "main_character_name": "Manar Faraj",
-            "main_character_gender": 0,
+            "plot": "A young man try to make musical festival by collecting Arab famous singers .",
+            "main_character_name": "Haifa Wehbe",
+            "main_character_gender": 1,
             "main_character_role": [
                 "",
                 ""
@@ -413,6 +365,18 @@
             ]
         },
         {
+            "id": "tt2999196",
+            "title": "Silina",
+            "release_year": "2009",
+            "plot": "A remake of the famous play \"Hala & the King\" by Assi & Mansour Rahbani with the famous comedian Duraid Lahham, star singer Myriam Fares, Antoine Kerbaj & Georges Khabbaz.",
+            "main_character_name": "Myriam Fares",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Hala"
+            ]
+        },
+        {
             "id": "tt1353789",
             "title": "Everyday Is a Holiday",
             "release_year": "2009",
@@ -425,6 +389,18 @@
             ]
         },
         {
+            "id": "tt14760522",
+            "title": "S.L. Film",
+            "release_year": "2000",
+            "plot": "Adel (Adel Karam), who works three jobs and takes care of his grandmother, falls in love with Roula (Roula Chamieh) and wants to marry her. However, her father disagrees because of Adel's ... See full summary",
+            "main_character_name": "Roula Chamieh",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
             "id": "tt1323576",
             "title": "Khalass",
             "release_year": "2007",
@@ -434,18 +410,6 @@
             "main_character_role": [
                 "",
                 ""
-            ]
-        },
-        {
-            "id": "tt0269934",
-            "title": "In the Shadows of the City",
-            "release_year": "2000",
-            "plot": "12-year-old Rami moves from South Lebanon to Beirut with his family to escape the Israeli bombings. In the city he befriends a few local children and falls in love with his neighbor Yasmine... See full summary",
-            "main_character_name": "Majdi Machmouchi",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Rami",
-                "Rami"
             ]
         },
         {
@@ -471,33 +435,33 @@
                 "Sana",
                 "Sana"
             ]
+        },
+        {
+            "id": "tt1510663",
+            "title": "1958",
+            "release_year": "2009",
+            "plot": "In 1958, in Senegal, land of emigration, Zahia Salhab gave birth to her first child Ghassan. During the same period, Lebanon, their homeland, is driven into a significant local conflict, a preamble to the next civil war.",
+            "main_character_name": "Aouni Kawas",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": "tt1455088",
+            "title": "It's About Time Lebanon",
+            "release_year": "2006",
+            "plot": "A summary of 30 years of war and post war in Lebanon during the Syrian and Israeli occupations, concluding that Love and Tolerance are the only way to build a long term future.",
+            "main_character_name": "Mounir Maasri",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                "The Shepard"
+            ]
         }
     ],
     "2010_2012": [
-        {
-            "id": "tt2018043",
-            "title": "Beyrouth h\u00f4tel",
-            "release_year": "2011 TV Movie",
-            "plot": "One evening, a married young singer Zoha meets the French lawyer Mathieu in a night club in Beirut. Mathieu will become suspected of spying, while Zoha is trying to flee from her husband. ... See full summary",
-            "main_character_name": "Charles Berling",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Mathieu",
-                "Mathieu"
-            ]
-        },
-        {
-            "id": "tt0787442",
-            "title": "The Attack",
-            "release_year": "2012",
-            "plot": "An Palestinian surgeon living in Tel Aviv discovers a dark secret about his wife in the aftermath of a suicide bombing.",
-            "main_character_name": "Ali Suliman",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Amin Jaafari",
-                "Amin Jaafari"
-            ]
-        },
         {
             "id": "tt1919085",
             "title": "Sorry Mom",
@@ -508,6 +472,18 @@
             "main_character_role": [
                 "",
                 ""
+            ]
+        },
+        {
+            "id": "tt2334549",
+            "title": "33 Days",
+            "release_year": "2012",
+            "plot": "The story of lebanese civilians and resistants in a southern village, Ayta ash Shab, in front of the violations of IDF during July War 2006",
+            "main_character_name": "Carmen Lebbos",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Em Abbass"
             ]
         },
         {
@@ -571,15 +547,15 @@
             ]
         },
         {
-            "id": "tt1783391",
-            "title": "The Mountain",
-            "release_year": "2010",
-            "plot": "Night falls over Beirut. Fadi, a forty year old, packs his luggage and sets out to the airport with his friend driving him. He is supposed to leave for a month, but instead of going up the ... See full summary",
-            "main_character_name": "Fadi Abi Samra",
-            "main_character_gender": 2,
+            "id": "tt2528386",
+            "title": "Wahdon",
+            "release_year": "2012",
+            "plot": "At the border of a forest, a Lebanese poet gets a breath of fresh air on his terrace, as every evening. He watches four young people disappearing into the forest and returning in the early hours.",
+            "main_character_name": "Jihad Al-Atrash",
+            "main_character_gender": 0,
             "main_character_role": [
                 "",
-                ""
+                "Poet"
             ]
         },
         {
@@ -631,15 +607,15 @@
             ]
         },
         {
-            "id": "tt2061623",
-            "title": "Crayons of Askalan",
-            "release_year": "2011",
-            "plot": "Zuhdi Al Adawi, a Palestinian artist imprisoned in the occupied territories, uses his art as his means of expression and is helped by the rest of the community and his own family to accomplish his artwork.",
-            "main_character_name": "Mohammad al Masri",
-            "main_character_gender": 0,
+            "id": "tt2381656",
+            "title": "Betroit",
+            "release_year": "2012",
+            "plot": "Betroit is a portrayal of three couples as their lives become intertwined with one another. An act of violence disturbs the lives of these intertwined couples in which they each realize how... See full summary",
+            "main_character_name": "Darine Hamze",
+            "main_character_gender": 1,
             "main_character_role": [
                 "",
-                ""
+                "Leila"
             ]
         },
         {
@@ -655,6 +631,18 @@
             ]
         },
         {
+            "id": "tt2327320",
+            "title": "Rola Saad Sings Sabah: Cell Animation",
+            "release_year": "2011 TV Movie",
+            "plot": "A young girl looks at the sky and dreams to be a princess and marry her beloved one. she goes with her love form era to era as the song changes and at the end the young girl goes to bed to continue her lovely dream.",
+            "main_character_name": "Rola Saad",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Self"
+            ]
+        },
+        {
             "id": "tt2428460",
             "title": "Abu Rami",
             "release_year": "2012",
@@ -664,6 +652,18 @@
             "main_character_role": [
                 "Abu Rami",
                 "Abu Rami"
+            ]
+        },
+        {
+            "id": "tt2358857",
+            "title": "10 Beiruti Minutes",
+            "release_year": "2010",
+            "plot": null,
+            "main_character_name": "Elie Mitri",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                "Elie"
             ]
         },
         {
@@ -686,7 +686,7 @@
             "release_year": "2015",
             "plot": "Four tragicomic interconnected stories about how devoted Muslim men and women are trying to manage their love life and desires without breaking any religious rules.",
             "main_character_name": "Darine Hamze",
-            "main_character_gender": 0,
+            "main_character_gender": 1,
             "main_character_role": [
                 "Loubna",
                 "Loubna"
@@ -702,6 +702,18 @@
             "main_character_role": [
                 "Layal",
                 "Layal Asfour"
+            ]
+        },
+        {
+            "id": "tt2552296",
+            "title": "Ghadi",
+            "release_year": "2013",
+            "plot": "Ghadi is different from other kids; could he be an angel? His father Leba, along with his teammates, tricks the town into believing so.",
+            "main_character_name": "Georges Khabbaz",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                "Leba Seba"
             ]
         },
         {
@@ -801,6 +813,30 @@
             ]
         },
         {
+            "id": "tt5531816",
+            "title": "The Second Lady",
+            "release_year": "2015",
+            "plot": "Dahab and Rida, two young Lebanese who have been in love for 10 years, are still trying to find a suitable job that will open up new horizons for their future and allow them to start a ... See full summary",
+            "main_character_name": "Maguy Bou Ghosn",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": "tt3465476",
+            "title": "Neswen",
+            "release_year": "2014",
+            "plot": "The issues of extremism and social prejudice through the scope of sexism and gender equality.",
+            "main_character_name": "Antoinette Akiki",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Emm Hassan"
+            ]
+        },
+        {
             "id": "tt3119566",
             "title": "Ladder to Damascus",
             "release_year": "2013",
@@ -810,6 +846,18 @@
             "main_character_role": [
                 "",
                 "Zeina"
+            ]
+        },
+        {
+            "id": "tt3216206",
+            "title": "Habbet Loulou",
+            "release_year": "2013",
+            "plot": "In modern day Lebanon, in a country divided between those who have too little and those who have too much, three women try to defy their social labeling and incapability.",
+            "main_character_name": "Takla Chamoun",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Faten"
             ]
         },
         {
@@ -837,6 +885,18 @@
             ]
         },
         {
+            "id": "tt3438204",
+            "title": "Monologues of a Pig",
+            "release_year": "2013",
+            "plot": null,
+            "main_character_name": "Said Serhan",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
             "id": "tt3702682",
             "title": "Insan Hayawan Chay'",
             "release_year": "2014",
@@ -846,6 +906,30 @@
             "main_character_role": [
                 "Khalil",
                 "Khalil"
+            ]
+        },
+        {
+            "id": "tt4066164",
+            "title": "Ercevax",
+            "release_year": "2014",
+            "plot": "After the discovery of the Ercevax vaccine, a scientist goes back in time in an attempt to save his son's life.",
+            "main_character_name": "Stephanie Atala",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Genevi\u00e8ve"
+            ]
+        },
+        {
+            "id": "tt5265068",
+            "title": "I'm Not a Martyr",
+            "release_year": "2015",
+            "plot": "A poet is forced to join a militia to protect his family, he embarks on a journey torn between his pacifist ideals and the cruel reality of war.",
+            "main_character_name": "Rodrigue Sleiman",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                "Ahmed"
             ]
         },
         {
@@ -861,50 +945,50 @@
             ]
         },
         {
-            "id": "tt3399056",
-            "title": "Typo",
-            "release_year": "2013",
-            "plot": "Faced with an impossible choice, a young man discovers he is dead 8 years earlier to his decided time, that divine mistake can be only corrected by one of two ways.",
-            "main_character_name": "Julian Farhat",
-            "main_character_gender": 2,
+            "id": "tt12106640",
+            "title": "Hers",
+            "release_year": "2015",
+            "plot": "Hayat is a ten years old girl who lives in a society that forces her to obey limited rules by that she isn't able to express what she feels only throughout dancing, however each time she ... See full summary",
+            "main_character_name": "Stephanie Atala",
+            "main_character_gender": 1,
             "main_character_role": [
-                "Kamal",
-                "Kamal"
+                "",
+                ""
             ]
         },
         {
-            "id": "tt4805606",
-            "title": "Tr\u00eave",
-            "release_year": "2015",
-            "plot": "Beirut 2013. My uncle Riad and his friends, all veterans of the Christian militias in Lebanon still live nostalgia for the war that impassioned their youth. Between shared memories in my ... See full summary",
-            "main_character_name": "Joseph Al-Hajji",
+            "id": "tt3622566",
+            "title": "Exil\u00e9",
+            "release_year": "2014",
+            "plot": "Far from his country, 'The Man R' decides to lock himself in his solitude, his exile, in a desperate attempt to rebuild his memory and to regain his identity.",
+            "main_character_name": "Nazem Issa",
             "main_character_gender": 0,
             "main_character_role": [
-                "Joseph Al-Hajj",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": "tt20836348",
+            "title": "24 Saaet Hob",
+            "release_year": "2013",
+            "plot": "Manu is a college student who comes from a prominent family, with a politician for a father and a socialite for a mother. But with his parents' occupation in their lives, Manu starts doing ... See full summary",
+            "main_character_name": "Takla Chamoun",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
                 ""
             ]
         }
     ],
     "2016_2018": [
         {
-            "id": "tt8267604",
-            "title": "Capernaum",
-            "release_year": "2018",
-            "plot": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
-            "main_character_name": "Zain Al Rafeea",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Zain",
-                "Zain"
-            ]
-        },
-        {
             "id": "tt7048622",
             "title": "The Insult",
             "release_year": "2017",
             "plot": "After an emotional exchange between a Lebanese Christian and a Palestinian refugee escalates, the men end up in a court case that gets national attention.",
             "main_character_name": "Adel Karam",
-            "main_character_gender": 2,
+            "main_character_gender": 0,
             "main_character_role": [
                 "Tony Hanna",
                 "Tony Hanna"
@@ -928,7 +1012,7 @@
             "release_year": "2017",
             "plot": "A wealthy lady places a condition on her grandson in order for him to receive her inheritance - he must find a girl that looks like the girl in a photo belonging to the grandmother, fall in love with her, and marry her.",
             "main_character_name": "Carlos Azar",
-            "main_character_gender": 2,
+            "main_character_gender": 0,
             "main_character_role": [
                 "Sami",
                 "Sami"
@@ -971,6 +1055,30 @@
             ]
         },
         {
+            "id": "tt6350558",
+            "title": "Listen",
+            "release_year": "2017",
+            "plot": "Despite living in a doomed country that hangs by a thread, Joud, a handsome sound engineer meets and falls in love with strong and free-spirited Rana. The young lovers, from completely ... See full summary",
+            "main_character_name": "Nagham Abboud",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Assistant Director"
+            ]
+        },
+        {
+            "id": "tt5356116",
+            "title": "Cash Flow 2",
+            "release_year": "2016",
+            "plot": "Cash Flow 2 continues the life of Mazen some years after the story of Cash Flow 1, he now lives a very rich life, he has everything; money, looks and a huge company. However, Mazen finds ... See full summary",
+            "main_character_name": "Carlos Azar",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                "Mazen"
+            ]
+        },
+        {
             "id": "tt6359118",
             "title": "Solitaire",
             "release_year": "I) (2016",
@@ -1004,18 +1112,6 @@
             "main_character_role": [
                 "Yara",
                 "Yara"
-            ]
-        },
-        {
-            "id": "tt7083868",
-            "title": "Bonbon\u00e9",
-            "release_year": "2017",
-            "plot": "A Palestinian couple resorts to an unusual way to conceive as the husband is detained in an Israeli jail where visits are restricted.",
-            "main_character_name": "Saleh Bakri",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "",
-                ""
             ]
         },
         {
@@ -1091,18 +1187,6 @@
             ]
         },
         {
-            "id": "tt6273462",
-            "title": "Still Burning",
-            "release_year": "2016",
-            "plot": "Still Burning tells the unexpected reunion in Paris in June 1998 of Andr\u00e9, a Lebanese filmmaker living and working in France, and Walid, the very close friend he has not seen for years. In ... See full summary",
-            "main_character_name": "Fadi Abi Samra",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Walid",
-                "Walid"
-            ]
-        },
-        {
             "id": "tt6449172",
             "title": "Bennesbeh Labokra Chou",
             "release_year": "2016",
@@ -1120,7 +1204,7 @@
             "release_year": "2018",
             "plot": "The film revolves around Feras Al Rayes, son of MP Waleed Al Rayes, who is getting ready to marry his fianc\u00e9e, Layal. Since he is marrying his first love, his personal trainer, Fadi Nasr, ... See full summary",
             "main_character_name": "Carlos Azar",
-            "main_character_gender": 2,
+            "main_character_gender": 0,
             "main_character_role": [
                 "",
                 "Al Mokhtar"
@@ -1139,39 +1223,27 @@
             ]
         },
         {
-            "id": "tt8081100",
-            "title": "The Swing",
-            "release_year": "2018",
-            "plot": "An assured, emotionally rich film about the lies a family tells to keep their patriarch happy; and the unattended costs of their falsehood. After sixty years of marriage, Antoine and Vivi ... See full summary",
-            "main_character_name": "Antoine Aris",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "(Himself)",
-                "Self"
-            ]
-        },
-        {
             "id": "tt5593008",
             "title": "Nuts",
             "release_year": "III) (2016",
             "plot": "Jenny was made for love and Lana for gambling. In this old-fashioned country, Lebanon, women have no say. Defying everyone and everything they will fight for their freedom whatever the cost.",
             "main_character_name": "Darine Hamze",
-            "main_character_gender": 0,
+            "main_character_gender": 1,
             "main_character_role": [
                 "Lana",
                 "Lana"
             ]
         },
         {
-            "id": "tt9619832",
-            "title": "El-Mahraja",
-            "release_year": "2018",
-            "plot": "The widow of \"Bahjat Bek\", who died and left a great mystery behind, asks \"El Maharaja\", to help her solve this mystery. However, he falls in love with her daughter which leads to a complicated situation.",
-            "main_character_name": "Ziad Bourji",
-            "main_character_gender": 2,
+            "id": "tt6259276",
+            "title": "Saudade",
+            "release_year": "V) (2016",
+            "plot": "Hanine, an aristocratic and narcissist woman in her early sixties is still living in the shadow of her youth with her old house, illusions, memories and mirrors. In her head and heart, ... See full summary",
+            "main_character_name": "Takla Chamoun",
+            "main_character_gender": 1,
             "main_character_role": [
                 "",
-                ""
+                "Hanine"
             ]
         },
         {
@@ -1211,6 +1283,18 @@
             ]
         },
         {
+            "id": "tt6088484",
+            "title": "Max w Antar",
+            "release_year": "2016",
+            "plot": "Max lives in the United States, he loses all his money. He then returns to Lebanon, with his spoiled dog, and works as a security officer. He and his dog are placed in a situation where they need to rescue Nadia's kidnapped father.",
+            "main_character_name": "Saad Hamdan",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
             "id": "tt6946954",
             "title": "Maki & Zorro",
             "release_year": "2017",
@@ -1235,18 +1319,6 @@
             ]
         },
         {
-            "id": "tt6565458",
-            "title": "Good Morning",
-            "release_year": "2018",
-            "plot": "A former Interior Security Forces General of 80 years old, and a former Army doctor of 84, go every day to the same coffee shop, to sip quietly their espresso, and to make crossword puzzles, to avoid loss of memory, Alzheimer's disease.",
-            "main_character_name": "Rodrigue Sleiman",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Salim - the journalist"
-            ]
-        },
-        {
             "id": "tt5215110",
             "title": "The Traveller",
             "release_year": "2016",
@@ -1268,6 +1340,18 @@
             "main_character_role": [
                 "Samar",
                 "Samar"
+            ]
+        },
+        {
+            "id": "tt6984002",
+            "title": "The Incident",
+            "release_year": "2017",
+            "plot": "At a bus stop near Beirut, a veiled Lebanese woman and a migrant Syrian worker get in a tumultuous moment and are arrested. They must argue their innocence in the face of the only witnesses... See full summary",
+            "main_character_name": "Yumna Marwan",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
             ]
         },
         {
@@ -1304,6 +1388,30 @@
             "main_character_role": [
                 "Lydia",
                 "Lidia"
+            ]
+        },
+        {
+            "id": "tt6568586",
+            "title": "Muse",
+            "release_year": "III) (2017",
+            "plot": null,
+            "main_character_name": "Abdo Chahine",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                "Father"
+            ]
+        },
+        {
+            "id": "tt6519364",
+            "title": "Crack",
+            "release_year": "II) (2017",
+            "plot": "To enrich a character in the play she is writing, May enters a mental institution with the help of Radwan which makes their complicated relationship even worse.",
+            "main_character_name": "Diamand Bou Abboud",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "May"
             ]
         },
         {
@@ -1367,6 +1475,30 @@
             ]
         },
         {
+            "id": "tt6421336",
+            "title": "On the Ropes",
+            "release_year": "I) (2016",
+            "plot": "\" On the ropes\" is a story that reflects the Lebanese society trough a family whose members' life is suspended like everything else in the country.",
+            "main_character_name": "Diamand Bou Abboud",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": "tt6062770",
+            "title": "Karun Treasure",
+            "release_year": "2016",
+            "plot": null,
+            "main_character_name": "Ali Saad",
+            "main_character_gender": 0,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
             "id": "tt4865642",
             "title": "The Rifle, the Jackal, the Wolf, and the Boy",
             "release_year": "2016",
@@ -1379,15 +1511,15 @@
             ]
         },
         {
-            "id": "tt7021650",
-            "title": "Salamat from Germany",
-            "release_year": "2017",
-            "plot": "Desperate to escape Lebanon and settle in Europe, Lillo buys himself a Syrian passport and is ready to appropriate the Syrian identity to obtain asylum. However, what he might not be ready ... See full summary",
-            "main_character_name": "Elie Njeim",
-            "main_character_gender": 2,
+            "id": "tt11905908",
+            "title": "Meenak Enta",
+            "release_year": "2018",
+            "plot": "Issam is a mysterious grotto-man living in the wilderness, over viewing a rural village with a lot of happenings - For more than twenty years, they call him \"the thief of food\" as he steals... See full summary",
+            "main_character_name": "Ali Al-Zein",
+            "main_character_gender": 0,
             "main_character_role": [
-                "Elie",
-                "Elie"
+                "",
+                ""
             ]
         },
         {
@@ -1403,11 +1535,35 @@
             ]
         },
         {
-            "id": "tt7084886",
-            "title": "The Borrowed Dress",
+            "id": "tt8434278",
+            "title": "Madina, IA",
             "release_year": "2018",
-            "plot": "Grandma Susu (80), her daughter Doaa (50), and her grandchild Saad (16) are forced to flee the Syrian civil war and live in diaspora, united by the desire to return home.",
-            "main_character_name": "Saad Alkuwatly",
+            "plot": "Two Arab immigrant sisters navigate the cold and violent land of a ghost town in the American Midwest.",
+            "main_character_name": "Yumna Marwan",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": "tt9199924",
+            "title": "Andy",
+            "release_year": "2018",
+            "plot": "Andy, an introvert 10-year old boy, who gets inspired by lights and colors. He lives with his mother who doesn't understand his passion.",
+            "main_character_name": "Pamela El Kik",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "Voice"
+            ]
+        },
+        {
+            "id": "tt7287486",
+            "title": "Wahl",
+            "release_year": "2018",
+            "plot": "A once famous theater actor, now forgotten by the people, is remembered for his most common and worthless piece of work. He allows a young documentary filmmaker into his daily life where she leads him to change the image he is known for.",
+            "main_character_name": "Mounir Maasri",
             "main_character_gender": 0,
             "main_character_role": [
                 "",
@@ -1424,6 +1580,18 @@
             "main_character_role": [
                 "Her",
                 "Her"
+            ]
+        },
+        {
+            "id": "tt6541760",
+            "title": "Conjecture",
+            "release_year": "2017",
+            "plot": null,
+            "main_character_name": "Stephanie Atala",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
             ]
         },
         {
@@ -1489,18 +1657,6 @@
             ]
         },
         {
-            "id": "tt11105790",
-            "title": "Broken Keys",
-            "release_year": "2021",
-            "plot": "Trying to escape his war-ravaged Middle Eastern neighborhood where music has been banned, a musician embarks on a journey to rebuild his piano after it is destroyed by extremists.",
-            "main_character_name": "Tarek Yaacoub",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "",
-                "Karim"
-            ]
-        },
-        {
             "id": "tt9178020",
             "title": "Copilot",
             "release_year": "2021",
@@ -1510,18 +1666,6 @@
             "main_character_role": [
                 "Asli",
                 "Asli Bilgin"
-            ]
-        },
-        {
-            "id": "tt10749760",
-            "title": "A Son",
-            "release_year": "2019",
-            "plot": "11 year old Aziz needs a liver transplant after being seriously injured during a terrorist ambush while on holiday in 2011. At the hospital a family secret will be revealed.",
-            "main_character_name": "Sami Bouajila",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Fares Ben Youssef",
-                "Fares Ben Youssef"
             ]
         },
         {
@@ -1537,18 +1681,6 @@
             ]
         },
         {
-            "id": "tt14966602",
-            "title": "The River",
-            "release_year": "2021",
-            "plot": "A man and a woman are in a restaurant situated in the Lebanese mountains. Suddenly, fighter planes appear and in the distance, war seems to be breaking once more. Having lost the woman, the... See full summary",
-            "main_character_name": "Ali Suliman",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
             "id": "tt11883966",
             "title": "Farah",
             "release_year": "2022",
@@ -1558,6 +1690,18 @@
             "main_character_role": [
                 "Lina Nasser",
                 "Lina Nasser"
+            ]
+        },
+        {
+            "id": "tt20159188",
+            "title": "Elektra, My Love",
+            "release_year": "2022",
+            "plot": "\"Elektra, My Love\" (89 min, 2021) is a kammerspiel-film set in the moody, cavernous ruin of the Piccadilly Theater, Beirut's extravagant art palace destroyed after the Lebanese Civil War, ... See full summary",
+            "main_character_name": "Diamand Bou Abboud",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
             ]
         },
         {
@@ -1573,6 +1717,18 @@
             ]
         },
         {
+            "id": "tt15124196",
+            "title": "It Gets Darker",
+            "release_year": "2022",
+            "plot": "Following a traumatic incident, Lara's childhood friend takes for a relaxing weekend at an isolated resort. It turns out be a trap to silence her. To stay alive Lara has to find her inner strength and fight her way through her friends.",
+            "main_character_name": "Nadia Charbel",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                ""
+            ]
+        },
+        {
             "id": "tt12357762",
             "title": "The Anger",
             "release_year": "2021",
@@ -1585,39 +1741,15 @@
             ]
         },
         {
-            "id": "tt10350570",
-            "title": "Amsterdam to Anatolia",
-            "release_year": "2019",
-            "plot": "Elissa's life takes a turn when she meets a mysterious man in her English class and she has to quickly decide between her family and him- and going from family-life to a life on the run is a wild choice to everyone but her.",
-            "main_character_name": "Adam Bakri",
-            "main_character_gender": 2,
-            "main_character_role": [
-                "Marwan",
-                "Marwan"
-            ]
-        },
-        {
-            "id": "tt8991318",
-            "title": "Under the Concrete",
+            "id": "tt11042462",
+            "title": "TV Society",
             "release_year": "2020",
-            "plot": "Beirut, Lebanon 2017. As the country trembles a man decides to attempt to break the world record of depth in deep diving.",
-            "main_character_name": "Nathalie Japiot",
+            "plot": "The airing of the Arabic version of an international dating TV show, that offers a panel of women the choice of a potential male suitor, sparks uproar and turns the show host into a public enemy.",
+            "main_character_name": "Fouad Yammine",
             "main_character_gender": 0,
             "main_character_role": [
-                "Nath",
-                "Nath"
-            ]
-        },
-        {
-            "id": "tt13067222",
-            "title": "State of Agitation",
-            "release_year": "2021",
-            "plot": "Living in Beirut adjacent to a highway ramp, a highly enthusiastic filmmaker is in a state of hyper inspiration characterized by an overflow of contrasting ideas. As a consequence, his ... See full summary",
-            "main_character_name": "Fadi Abi Samra",
-            "main_character_gender": 2,
-            "main_character_role": [
                 "",
-                "Camel's owner"
+                "Fouad"
             ]
         },
         {
@@ -1645,18 +1777,6 @@
             ]
         },
         {
-            "id": "tt8667126",
-            "title": "About a War",
-            "release_year": "2019",
-            "plot": "A feature length documentary exploring violence and social change through the stories of ex-fighters from the Lebanese Civil War.",
-            "main_character_name": "Hasan Aboud",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Playing Himself"
-            ]
-        },
-        {
             "id": "tt11880102",
             "title": "Bayt El Omor",
             "release_year": "2021",
@@ -1681,15 +1801,27 @@
             ]
         },
         {
-            "id": "tt12219112",
-            "title": "Heaven Beneath My Feet",
+            "id": "tt13353170",
+            "title": "Sett El Donia",
             "release_year": "2020",
-            "plot": "Heaven Beneath my Feet is the story of three Lebanese women each struggling on her own to defy the religious law and reunite with their children in a country where secular civil law is yet to exist.",
-            "main_character_name": "Lina Arar",
-            "main_character_gender": 0,
+            "plot": "A love letter to Beirut, a city like no other.",
+            "main_character_name": "Carmen Bsaibes",
+            "main_character_gender": 1,
             "main_character_role": [
                 "",
-                ""
+                "Carmen Bsaibes"
+            ]
+        },
+        {
+            "id": "tt19047792",
+            "title": "Beirut the Bride",
+            "release_year": "2020",
+            "plot": null,
+            "main_character_name": "Valerie Abou Chacra",
+            "main_character_gender": 1,
+            "main_character_role": [
+                "",
+                "The Bride"
             ]
         },
         {

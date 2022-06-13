@@ -4,7 +4,7 @@ import wikipedia
 from SPARQLWrapper import SPARQLWrapper, JSON
 from getMoviesPerCountry import countries, years
 
-occupations = ['football player', 'bank manger', 'computer system analyst']
+occupations = ['football player', 'bank manger', 'computer system analyst', 'dr.']
 
 
 def get_results(endpoint_url, query):
@@ -77,16 +77,16 @@ def open_all_json_files():
             movies_per_country = json.load(json_file)
             json_dict = {}
             for years_range, movies_arr in movies_per_country.items():
-                updated_movies_arr = expand_movie_dict(movies_arr)
+                updated_movies_arr = expand_movie_dict(movies_arr, country.adjectival)
                 json_dict.update({years_range: updated_movies_arr})
         with open(path, 'w') as outfile:
             json.dump(json_dict, outfile, indent=4)
 
 
-def expand_movie_dict(movies_arr):
+def expand_movie_dict(movies_arr, country_adjectival):
     updated_movies_arr = []
     for movie in movies_arr:
-        occupation = get_character_occupation(movie)
+        occupation = get_character_occupation(movie, country_adjectival)
         if occupation:
             movie['main_character_role'] = occupation
             updated_movies_arr.append(movie)
@@ -94,7 +94,7 @@ def expand_movie_dict(movies_arr):
 
 
 # Given a movie, the function seeks out the role of the main character in several ways.
-def get_character_occupation(movie_desc):
+def get_character_occupation(movie_desc, country_adjectival):
     # option 1 : if the character's role is written in the json file in the field: 'main_character_role'
     role_by_imdb_and_tmdb = movie_desc['main_character_role']
     imdb_role = role_by_imdb_and_tmdb[0]
@@ -106,7 +106,7 @@ def get_character_occupation(movie_desc):
 
     # option 2: if the role of the character is written in the plot.
     # The plot is accepted by imdb or by wikipedia.
-    plot_by_wiki = get_plot(movie_desc['title'], movie_desc['release_year'])
+    plot_by_wiki = get_plot(movie_desc['title'], movie_desc['release_year'], country_adjectival)
     plot_by_imdb = movie_desc['plot']
     names_and_plots = [[imdb_role, plot_by_imdb],
                        [tmdb_role, plot_by_imdb],
@@ -123,28 +123,29 @@ def get_character_occupation(movie_desc):
 def get_character_occupation_by_sentence(sentence):
     if (sentence is None) or len(sentence) == 0:
         return None
-        for occupation in occupations:
-            sentence_arr = sentence.lower().split(' ')
-            occupation_arr = occupation.lower().split(' ')
-            if len(sentence_arr) >= len(occupation_arr) and is_a_in_x(occupation_arr, sentence_arr):
-                return occupation
+    for occupation in occupations:
+        sentence_arr = sentence.lower().split(' ')
+        occupation_arr = occupation.lower().split(' ')
+        if len(sentence_arr) >= len(occupation_arr) and is_a_in_x(occupation_arr, sentence_arr):
+            return occupation
     return None
 
 
 # The function gets the name of a movie and its year of release.
 # Searches for his plot according to Wikipedia and returns it if any.
-def get_plot(film_name, year):
+def get_plot(film_name, year, country_adjectival):
     possibles = ['Plot', 'Synopsis', 'Plot synopsis', 'Plot summary',
                  'Story', 'Plotline', 'The Beginning', 'Summary',
                  'Content', 'Premise']
     possibles_edit = [i + 'Edit' for i in possibles]
     all_possibles = possibles + possibles_edit
-    film_names = [film_name + ' ' + '(' + year + ' film)', film_name + '(' + year + ')', film_name + ' (film)',
-                  film_name]
+    film_names = [film_name + ' (' + year + ' ' + country_adjectival + ' film)', film_name + ' (' + year + ' film)',
+                  film_name + ' (the ' + year + ' film)',  film_name + ' (' + year + ')', film_name + ' (film)',
+                  film_name + ' (novel)', film_name]
     plot = None
-    for j in film_names:
+    for film_name in film_names:
         try:
-            page = wikipedia.WikipediaPage(j)
+            page = wikipedia.WikipediaPage(film_name)
             if page:
                 break
         except:
