@@ -16,22 +16,22 @@ class Country:
 
 
 countries = [
-    # Country('Afghanistan', 'af', 'ps', 'Q889', 'Afghan'),
-    Country('Egypt', 'eg', 'ar', 'Q79', 'Egyptian'),
-    Country('Lebanon', 'lb', 'ar', 'Q822', 'Lebanese'),
-    Country('Turkey', 'tr', 'tr', 'Q43', 'Turkish'),
-    Country('Syria', 'sy', 'ar', 'Q858', 'Syrian'),
+    # Country('Afghanistan', 'af', 'ps', 'Q889', 'Afghan')
+    # Country('Egypt', 'eg', 'ar', 'Q79', 'Egyptian'),
+    # Country('Lebanon', 'lb', 'ar', 'Q822', 'Lebanese'),
+    # Country('Turkey', 'tr', 'tr', 'Q43', 'Turkish'),
+    # Country('Syria', 'sy', 'ar', 'Q858', 'Syrian')
     # Country('France', 'fr', 'fr', 'Q142', 'French'),
-    # Country('Germany', 'de', 'de', 'Q183', 'German')
+    # Country('Germany', 'de', 'de', 'Q183', 'German'),
     # Country('Italy', 'it', 'it', 'Q38', 'Italian'),
     # Country('United Kingdom', 'gb', 'en', 'Q145', 'British'),
     # Country('Greece', 'gr', 'el', 'Q41', 'Greek'),
     # Country('Poland', 'pl', 'pl', 'Q36', 'Polish'),
     # Country('Russia', 'ru', 'ru', 'Q159', 'Russian'),
-    # Country('Japan', 'ja', 'ja', 'Q17', 'Japanese'),
-    # Country('India', 'in', 'hi', 'Q668', 'Indian'),
-    # Country('China', 'cn', 'zh', 'Q148', 'Chinese'),
-    # Country('United States', 'us', 'en', 'Q30', 'American'),
+    Country('Japan', 'jp', 'ja', 'Q17', 'Japanese'),
+    Country('India', 'in', 'hi', 'Q668', 'Indian'),
+    Country('China', 'cn', 'zh', 'Q148', 'Chinese'),
+    Country('United States', 'us', 'en', 'Q30', 'American'),
     # Country('Mexico', 'mx', 'es', 'Q96', 'Mexican'),
     # Country('Canada', 'ca', 'en', 'Q16', 'Canadian'),
     # Country('Brazil', 'br', 'pt', 'Q155', 'Brazilian'),
@@ -66,7 +66,7 @@ def get_movies_by_pages(country, years_range):
     num_of_pages = 3
     release_data_from, release_data_to = years_range[0:4], years_range[5:]
     for i in range(0, num_of_pages):
-        query = 'https://imdb-api.com/API/AdvancedSearch/k_64p78757?title_type=feature,tv_movie,short,' \
+        query = 'https://imdb-api.com/API/AdvancedSearch/k_sej8mhp2?title_type=feature,tv_movie,short,' \
                 'tv_short&release_date=%s-01-01,' \
                 '%s-12-31&countries=%s&languages=%s&count=250&start=%d' % (
                     release_data_from, release_data_to, country.shortcut,

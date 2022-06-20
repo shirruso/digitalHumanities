@@ -97,21 +97,20 @@ def expand_movie_dict(movies_arr, country_adjectival):
 def get_character_occupation(movie_desc, country_adjectival):
     # option 1 : if the character's role is written in the json file in the field: 'main_character_role'
     role_by_imdb_and_tmdb = movie_desc['main_character_role']
-    imdb_role = role_by_imdb_and_tmdb[0]
-    tmdb_role = role_by_imdb_and_tmdb[1]
-    if not (occupation := get_character_occupation_by_sentence(imdb_role)):
-        occupation = get_character_occupation_by_sentence(tmdb_role)
-    if occupation:
-        return occupation
-
+    imdb_roles = role_by_imdb_and_tmdb[0].split(' / ')
+    tmdb_roles = role_by_imdb_and_tmdb[1].split(' / ')
+    imdb_and_tmdb_roles = imdb_roles.extend(tmdb_roles)
+    for role in imdb_and_tmdb_roles:
+        occupation = get_character_occupation_by_sentence(role)
+        if occupation:
+            return occupation
     # option 2: if the role of the character is written in the plot.
     # The plot is accepted by imdb or by wikipedia.
     plot_by_wiki = get_plot(movie_desc['title'], movie_desc['release_year'], country_adjectival)
     plot_by_imdb = movie_desc['plot']
-    names_and_plots = [[imdb_role, plot_by_imdb],
-                       [tmdb_role, plot_by_imdb],
-                       [imdb_role, plot_by_wiki],
-                       [tmdb_role, plot_by_wiki]]
+    names_and_plots = []
+    for role in imdb_and_tmdb_roles:
+        names_and_plots.extend([[role, plot_by_imdb], [role, plot_by_wiki]])
     for name_and_plot in names_and_plots:
         if occupation := get_occupation_by_plot(name_and_plot[0], name_and_plot[1]):
             return occupation
@@ -140,7 +139,7 @@ def get_plot(film_name, year, country_adjectival):
     possibles_edit = [i + 'Edit' for i in possibles]
     all_possibles = possibles + possibles_edit
     film_names = [film_name + ' (' + year + ' ' + country_adjectival + ' film)', film_name + ' (' + year + ' film)',
-                  film_name + ' (the ' + year + ' film)',  film_name + ' (' + year + ')', film_name + ' (film)',
+                  film_name + ' (the ' + year + ' film)', film_name + ' (' + year + ')', film_name + ' (film)',
                   film_name + ' (novel)', film_name]
     plot = None
     for film_name in film_names:
