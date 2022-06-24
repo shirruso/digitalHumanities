@@ -5,7 +5,7 @@ def get_results(endpoint_url, query):
     sparql = SPARQLWrapper(endpoint_url)
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
-    return sparql.query().convert()
+    return sparql.queryAndConvert()
 
 
 def get_actors_per_country(country):

@@ -4,7 +4,7 @@ import wikipedia
 from SPARQLWrapper import SPARQLWrapper, JSON
 from getMoviesPerCountry import countries, years
 
-occupations = ['football player', 'bank manger', 'computer system analyst', 'dr.']
+occupations = ['football player', 'bank manger', 'computer system analyst', 'dr.', 'prof.']
 
 
 def get_results(endpoint_url, query):
@@ -97,9 +97,11 @@ def expand_movie_dict(movies_arr, country_adjectival):
 def get_character_occupation(movie_desc, country_adjectival):
     # option 1 : if the character's role is written in the json file in the field: 'main_character_role'
     role_by_imdb_and_tmdb = movie_desc['main_character_role']
-    imdb_roles = role_by_imdb_and_tmdb[0].split(' / ')
-    tmdb_roles = role_by_imdb_and_tmdb[1].split(' / ')
-    imdb_and_tmdb_roles = imdb_roles.extend(tmdb_roles)
+
+    imdb_roles = role_by_imdb_and_tmdb[0].split(' / ') if role_by_imdb_and_tmdb[0] else []
+    tmdb_roles = role_by_imdb_and_tmdb[1].split(' / ') if role_by_imdb_and_tmdb[1] else []
+    imdb_and_tmdb_roles = imdb_roles + tmdb_roles
+
     for role in imdb_and_tmdb_roles:
         occupation = get_character_occupation_by_sentence(role)
         if occupation:
