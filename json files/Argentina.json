@@ -1,754 +1,1663 @@
 {
-    "1960_1979": [],
-    "1980_1999": [
+    "1960_1979": [
         {
-            "id": "tt0087812",
-            "title": "Nights Without Moons and Suns",
-            "release_year": "1984",
-            "plot": "Cairo has spent three years in prison. Four months before completing his sentence, he escapes. Sheriff Maidana tries to recapture him.",
-            "main_character_name": "Alberto de Mendoza",
+            "id": "tt0062433",
+            "title": "The Curious Dr. Humpp",
+            "release_year": "1969",
+            "plot": "This movie is about a doctor who kidnaps people, couples who are having sex. He takes them to his mansion where they are being kept as prisoners. He injects his subjects with a substance to... See full summary",
+            "main_character_name": "Ricardo Bauleo",
             "main_character_gender": 0,
-            "main_character_role": [
-                "Cairo",
-                "Cairo"
-            ]
+            "main_character_role": "reporter"
         },
         {
-            "id": "tt4888126",
-            "title": "Costa Sur",
-            "release_year": "1983",
-            "plot": null,
-            "main_character_name": "Katja Alemann",
+            "id": "tt0062004",
+            "title": "Muhair",
+            "release_year": "1967",
+            "plot": "Eva is a prostitute who earns her living at the town cabaret. On Sundays, however, she abandons herself in the arms and passion of Jos\u00e9 in an oasis of sexual pleasure. The problem arises when Josep's son appears who also desires her.",
+            "main_character_name": "Isabel Sarli",
             "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "prostitute"
         },
         {
-            "id": "tt2151589",
-            "title": "Derecho viejo",
-            "release_year": "1998",
-            "plot": "The story of some neighborhood boys, narrated with an undoubted Borgian spirit.",
-            "main_character_name": "Miguel Dedovich",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0310574",
-            "title": "El acompa\u00f1amiento",
-            "release_year": "1991",
-            "plot": null,
-            "main_character_name": "Carlos Carella",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "Tuco",
-                "Tuco"
-            ]
-        },
-        {
-            "id": "tt0334216",
-            "title": "Raro",
-            "release_year": "1999",
-            "plot": null,
-            "main_character_name": "Alberto Rojas Apel",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0117595",
-            "title": "El sekuestro",
-            "release_year": "1997",
-            "plot": "A politically incorrect parody of human misery in Argentina during the seventies, a film with a peculiar tropical flavor which has already become a cult.",
-            "main_character_name": "Sandra Ballesteros",
+            "id": "tt0122329",
+            "title": "Tropical Ecstasy",
+            "release_year": "1970",
+            "plot": "A prostitute returns to her native fishing village, where her love from childhood is still waiting for her. But her pimp follows her and threatens her happiness. She must decide her destiny between those two totally different men.",
+            "main_character_name": "Isabel Sarli",
             "main_character_gender": 1,
-            "main_character_role": [
-                "Carmencita",
-                ""
-            ]
+            "main_character_role": "prostitute"
         },
         {
-            "id": "tt0411339",
-            "title": "The Echo",
-            "release_year": "1984",
-            "plot": null,
-            "main_character_name": "Susana Mart\u00ednez",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0310703",
-            "title": "La bailanta",
-            "release_year": "1988",
-            "plot": null,
-            "main_character_name": "Teresa Parodi",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0348262",
-            "title": "Tupac Amaru",
-            "release_year": "1987 TV Movie",
-            "plot": null,
-            "main_character_name": "Leonor Manso",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0091269",
-            "title": "Insomniacs",
-            "release_year": "1986",
-            "plot": null,
-            "main_character_name": "Selva Alem\u00e1n",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0303817",
-            "title": "Caminos del ma\u00edz",
-            "release_year": "1988",
-            "plot": null,
-            "main_character_name": "H\u00e9ctor Bidonde",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0208210",
-            "title": "Stories of Love, Madness and Death",
-            "release_year": "1996",
-            "plot": null,
-            "main_character_name": "Cristina Banegas",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0083776",
-            "title": "Cuarteles de invierno",
-            "release_year": "1984",
-            "plot": "A boxer and a singer are hired by the Armed Forces to entertain the people of a small town. When their personalities and principles get them in trouble with the authorities, they support each other as they face their destiny.",
-            "main_character_name": "Oscar Ferrigno",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "Andr\u00e9s Galv\u00e1n",
-                "Andr\u00e9s Galv\u00e1n"
-            ]
-        },
-        {
-            "id": "tt0830810",
-            "title": "The Waiting",
-            "release_year": "II) (1983",
-            "plot": null,
-            "main_character_name": "Guillermo Battaglia",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0189152",
-            "title": "Los tigres de la memoria",
-            "release_year": "1984",
-            "plot": null,
-            "main_character_name": "Alberto de Mendoza",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "Carlos",
-                ""
-            ]
-        },
-        {
-            "id": "tt0303840",
-            "title": "Chau, pap\u00e1",
-            "release_year": "1987",
-            "plot": null,
-            "main_character_name": "Mat\u00edas Hacker",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt5163146",
-            "title": "Los Mens\u00fa",
-            "release_year": "1986 TV Movie",
-            "plot": null,
-            "main_character_name": "Pablo Alarc\u00f3n",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0246429",
-            "title": "Angel, the Diva and I",
-            "release_year": "1999",
-            "plot": "Buenos Aires at the end of the millennium a young filmmaker hopeless about their future decides to film his last act.",
-            "main_character_name": "Pepe Soriano",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "\u00c1ngel Ferreyros",
-                "\u00c1ngel Ferreyros"
-            ]
-        },
-        {
-            "id": "tt0166797",
-            "title": "Shared Secrets",
-            "release_year": "1998",
-            "plot": "Vicente Duarte seeks to kill a woman a week at the same time he starts reading Nietzche texts. In the house, neither his wife nor her daughters suspect, although the first one begins to ... See full summary",
-            "main_character_name": "V\u00edctor Laplace",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "Vicente Duarte",
-                "Vincente Duarte"
-            ]
-        },
-        {
-            "id": "tt0484993",
-            "title": "El llamado de las seis",
-            "release_year": "1999",
-            "plot": null,
-            "main_character_name": "Chany Mallo",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0304198",
-            "title": "El insomnio del Se\u00f1or K.",
-            "release_year": "1986",
-            "plot": null,
-            "main_character_name": "Norman Briski",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0378679",
-            "title": "Rub\u00e9n, el murci\u00e9lago",
-            "release_year": "1993",
-            "plot": "Ruben is a young bodybuilder who dreams of being Batman, his favorite superhero. But life holds another surprise for him.",
-            "main_character_name": "Mar\u00eda Laura Cali",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0452006",
-            "title": "Ceremonia secreta",
-            "release_year": "1981 TV Movie",
-            "plot": null,
-            "main_character_name": "Susana Campos",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                "Leonides Arrufat"
-            ]
-        },
-        {
-            "id": "tt0368562",
-            "title": "Acontecimientos locales",
-            "release_year": "1996",
-            "plot": null,
-            "main_character_name": "Pablo Par\u00e9s",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0194291",
-            "title": "Quer\u00e9me as\u00ed, piantao",
-            "release_year": "1997",
-            "plot": null,
-            "main_character_name": "Hugo Arana",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "\u00c1stor",
-                ""
-            ]
-        },
-        {
-            "id": "tt0335876",
-            "title": "Ana, \u00bfd\u00f3nde est\u00e1s?",
-            "release_year": "1985",
-            "plot": null,
-            "main_character_name": "Cecilia Etchegaray",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0182548",
-            "title": "\u00bfLos piolas no se casan?",
-            "release_year": "1981",
-            "plot": null,
-            "main_character_name": "Santiago Bal",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0351746",
-            "title": "Historias Breves I: La simple raz\u00f3n",
-            "release_year": "1995",
-            "plot": null,
-            "main_character_name": "Miguel Dedovich",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0381691",
-            "title": "La versi\u00f3n de Marcial",
-            "release_year": "1991",
-            "plot": null,
-            "main_character_name": "Ra\u00fal Florido",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0372341",
-            "title": "Imposible es",
-            "release_year": "1997",
-            "plot": null,
-            "main_character_name": "Santiago Giralt",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt6417950",
-            "title": "Mocosos y chiflados",
-            "release_year": "1986 TV Movie",
-            "plot": null,
-            "main_character_name": "Ana Mar\u00eda Castel",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0427249",
-            "title": "El fin de Heginio G\u00f3mez",
-            "release_year": "1990",
-            "plot": null,
-            "main_character_name": "Mart\u00edn Adjemi\u00e1n",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0372386",
-            "title": "Lluvia para tah\u00fares",
-            "release_year": "1999",
-            "plot": null,
-            "main_character_name": "Walter Balzarini",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0303974",
-            "title": "Estibador se necesita",
-            "release_year": "1986",
-            "plot": null,
-            "main_character_name": "Norman Briski",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt1480718",
-            "title": "Argentina bizarra",
-            "release_year": "1997",
-            "plot": null,
+            "id": "tt4913550",
+            "title": "Masterworks of Terror",
+            "release_year": "1960",
+            "plot": "An anthology of three Edgar Allan Poe stories: \"The Case of Mr. Valdemar,\" \"The Cask of Amontillado\" and \"The Tell-Tale Heart.\"",
             "main_character_name": "Narciso Ib\u00e1\u00f1ez Menta",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "dr."
         },
         {
-            "id": "tt0475765",
-            "title": "Traici\u00f3n",
-            "release_year": "1990",
-            "plot": null,
-            "main_character_name": "H\u00e9ctor Alterio",
+            "id": "tt0178662",
+            "title": "Juan Manuel de Rosas",
+            "release_year": "1972",
+            "plot": "The political career of Juan Manuel de Rosas, twice Governor of the Province of Buenos Aires (1829-1832 and 1835-1852), who also ruled the Argentine Confederation during his second term in office.",
+            "main_character_name": "Rodolfo Beb\u00e1n",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "governor"
         },
         {
-            "id": "tt0373832",
-            "title": "Historias Breves III: Familia Fortone",
-            "release_year": "1999",
-            "plot": null,
-            "main_character_name": "Bernardo Baras",
+            "id": "tt0057001",
+            "title": "La diosa impura",
+            "release_year": "1963",
+            "plot": "Laura is the woman of a gangster involved in a robbery, who flees to Mexico, where she will be protected by a painter.",
+            "main_character_name": "Isabel Sarli",
+            "main_character_gender": 1,
+            "main_character_role": "painter"
+        },
+        {
+            "id": "tt0198421",
+            "title": "Los doctores las prefieren desnudas",
+            "release_year": "1973",
+            "plot": "Car salesman Alberto impersonates a doctor to impress actress Corina. Alberto, with his friend Jorge posing as his nurse, winds up having to perform an emergency operation.",
+            "main_character_name": "Alberto Olmedo",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "salesman"
         },
         {
-            "id": "tt0196825",
-            "title": "Las travesuras de Cepillo",
-            "release_year": "1981",
-            "plot": null,
+            "id": "tt0198978",
+            "title": "El rey de los exhortos",
+            "release_year": "1979",
+            "plot": "Alberto, a divorce lawyer, is left a widower and since then has suffered a feeling of guilt because his wife died while he was cheating on her. This is how he meets Susana, a woman whose ... See full summary",
+            "main_character_name": "Alberto Olmedo",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt0121573",
+            "title": "Yesterday's Guys Used No Arsenic",
+            "release_year": "1976",
+            "plot": "Mara Ordaz, a former diva who lives in a mansion away from the city and sorrounded by memories together with her husband, her doctor and the person in charge of the administration of her ... See full summary",
+            "main_character_name": "Mecha Ortiz",
+            "main_character_gender": 1,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt0062132",
+            "title": "Placer sangriento",
+            "release_year": "1967",
+            "plot": "A masked killer prowls the beaches of Argentina, injecting beautiful girls with heroin, and then using weird organ music to make them his zombie slaves.",
+            "main_character_name": "Alberto Candeau",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt0068701",
+            "title": "Los hijos de Fierro",
+            "release_year": "1978",
+            "plot": "Peronist view of its history between the fall in 1955 and the electoral triumph of 1973 using a metaphor of the poem Martin Fierro.",
+            "main_character_name": "Julio Troxler",
+            "main_character_gender": 0,
+            "main_character_role": "mayor"
+        },
+        {
+            "id": "tt0070250",
+            "title": "Juan Moreira",
+            "release_year": "1973",
+            "plot": "In the late-19th century, mule-driver Juan Moreira is a good gaucho and worker who, like many others, is subjected to abuse and humiliation by those in power: landowners of the police.",
+            "main_character_name": "Rodolfo Beb\u00e1n",
+            "main_character_gender": 0,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt0194467",
+            "title": "Tres veces Ana",
+            "release_year": "1961",
+            "plot": "Three independent stories about three different women, all named Ana and played by the same actress.",
+            "main_character_name": "Mar\u00eda Vaner",
+            "main_character_gender": 1,
+            "main_character_role": "actress"
+        },
+        {
+            "id": "tt0195754",
+            "title": "Fatso Catastrophe",
+            "release_year": "1977",
+            "plot": "The good-hearted but clumsy Catrasca causes accidents and mayhem wherever he goes. The kindly Graciela gets Catrasca a job as an assistant to her father, Dr. Galindez. Three groups of ... See full summary",
+            "main_character_name": "Jorge Porcel",
+            "main_character_gender": 0,
+            "main_character_role": "assistant"
+        },
+        {
+            "id": "tt0121656",
+            "title": "The Hippie Professor",
+            "release_year": "1969",
+            "plot": "Luis Sandrini plays a college professor who, because of his freethinking attitudes and concerns for moral questions over matters of business, has more in common with his students than his colleagues.",
+            "main_character_name": "Luis Sandrini",
+            "main_character_gender": 0,
+            "main_character_role": "profesor"
+        },
+        {
+            "id": "tt0121848",
+            "title": "The Venerable Ones",
+            "release_year": "1963",
+            "plot": "Ismael is a shy, awkward young man who belongs to a group of conspirators. The leader, Lucas, constantly abuses and ridicules him. Precariously held together by a romantic relationship, Ismael struggles to assert himself.",
+            "main_character_name": "Lautaro Mur\u00faa",
+            "main_character_gender": 0,
+            "main_character_role": "leader"
+        },
+        {
+            "id": "tt0062103",
+            "title": "Patapufete!",
+            "release_year": "1967",
+            "plot": "Pepe, a hairdresser to whom his great uncle had left him a notebook that contained the formula to make a large atomic bomb. When some specialists dedicated to science find out, they start sending people to steal it.",
+            "main_character_name": "Pepe Biondi",
+            "main_character_gender": 0,
+            "main_character_role": "hairdresser"
+        },
+        {
+            "id": "tt0186182",
+            "title": "Los guerrilleros",
+            "release_year": "1965",
+            "plot": "One of the few survivors of a guerrilla revolutionary gang finds out that he was only a pawn and gives it up to find happiness with the girl he loves.",
             "main_character_name": "Arturo Garc\u00eda Buhr",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "dr."
         },
         {
-            "id": "tt0220731",
-            "title": "The Revelation",
-            "release_year": "1996",
-            "plot": "Am\u00e9rico is a young man who believes he is immortal and feels overwhelmed by this as he is sure the world will never get better. Happiness and purpose in life are dealt with through his ... See full summary",
-            "main_character_name": "Daniel Kuzniecka",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Am\u00e9rico"
-            ]
-        },
-        {
-            "id": "tt0351710",
-            "title": "Secretos en el Monte Olvidado",
-            "release_year": "1986",
-            "plot": null,
-            "main_character_name": "Virginia Lago",
+            "id": "tt0076600",
+            "title": "La Raulito en libertad",
+            "release_year": "1977",
+            "plot": "A young lady nicknamed La Raulito is flown from Buenos Aires, Argentina to Madrid to be the actress in an interview type film. She has an interesting story having been a psychiatric patient... See full summary",
+            "main_character_name": "Marilina Ross",
             "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "actress"
         },
         {
-            "id": "tt0359861",
-            "title": "Qu' est-ce q' cest",
-            "release_year": "1994",
-            "plot": null,
-            "main_character_name": "Cecilia Etchegaray",
+            "id": "tt0057448",
+            "title": "Las ratas",
+            "release_year": "1963",
+            "plot": "Returning from Switzerland, a young investigator meets Mar\u00eda, his father's new wife. They immediately feel an irresistible attraction, which he tries to overcome by mixing it up with ... See full synopsis",
+            "main_character_name": "Aurora Bautista",
             "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "investigator"
         },
         {
-            "id": "tt0121690",
-            "title": "The Sternness of Fate",
-            "release_year": "1985",
-            "plot": "A boy raised in Spain during the \"Dirty War\" goes back to his native Tucum\u00e1n, in the Argentinean North. As he spends time with his grandfather, he learns about the land and about his father, a lawyer who died during the dictatorship.",
-            "main_character_name": "Alberto Benegas",
+            "id": "tt0121657",
+            "title": "El profesor patag\u00f3nico",
+            "release_year": "1970",
+            "plot": "A history teacher travels to possess a charge to Esquel, in Patagonia. Along the way he meets a novice teacher and a priest who likes to sing . It includes numerous musical numbers.",
+            "main_character_name": "Luis Sandrini",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "profesor"
         },
         {
-            "id": "tt0177160",
-            "title": "Rats!",
-            "release_year": "1997",
+            "id": "tt0350878",
+            "title": "El ej\u00e9rcito",
+            "release_year": "1969",
             "plot": null,
-            "main_character_name": "Eugenia Guerty",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0333765",
-            "title": "Historias Breves III: Lara y los trenes",
-            "release_year": "1999",
-            "plot": "Lara takes care of an elderly disabled woman who does not speak, whose painful past is intertwined with the incessant noise of the train and the screeching of the tracks.",
-            "main_character_name": "Diana Wells",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0221306",
-            "title": "Johnny Tolengo, el majestuoso",
-            "release_year": "1987",
-            "plot": null,
-            "main_character_name": "Juan Carlos Calabr\u00f3",
+            "main_character_name": "Carlos Roff\u00e9",
             "main_character_gender": 0,
-            "main_character_role": [
-                "Johny Tolengo",
-                "Johnny Tolengo"
-            ]
+            "main_character_role": "narrator"
         },
         {
-            "id": "tt0311190",
-            "title": "La garganta del diablo",
-            "release_year": "1991",
+            "id": "tt3197332",
+            "title": "Got\u00e1n",
+            "release_year": "1979",
             "plot": null,
-            "main_character_name": "Ana Mar\u00eda Ricci",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0370528",
-            "title": "Un d\u00eda de filmaci\u00f3n",
-            "release_year": "1985",
-            "plot": "Short film about backstage of Bailoretto, la aventura de un rebelde.",
-            "main_character_name": "Arturo Bon\u00edn",
+            "main_character_name": "Carlos Carlsen",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Self"
-            ]
+            "main_character_role": "musician"
         },
         {
-            "id": "tt4823844",
-            "title": "Tiempos de serenata",
-            "release_year": "1981 TV Movie",
-            "plot": null,
-            "main_character_name": "Alberto Anchart",
+            "id": "tt0178847",
+            "title": "El profesor Tirabombas",
+            "release_year": "1972",
+            "plot": "Students in a school they set up a big mess for your favorite teacher returns to school.",
+            "main_character_name": "Luis Sandrini",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "profesor"
         },
         {
-            "id": "tt0378292",
-            "title": "Maese trotamundos",
-            "release_year": "1993",
+            "id": "tt0168710",
+            "title": "Dr. C\u00e1ndido P\u00e9rez, se\u00f1oras",
+            "release_year": "1962",
             "plot": null,
-            "main_character_name": "Ana Celentano",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0376627",
-            "title": "Guachoabel",
-            "release_year": "1987",
-            "plot": null,
-            "main_character_name": "Mabel Dai",
+            "main_character_name": "Juan Carlos Thorry",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "dr."
         },
         {
-            "id": "tt0346919",
-            "title": "D\u00f3nde y c\u00f3mo Oliveira perdi\u00f3 a Achala",
-            "release_year": "1995",
+            "id": "tt0062444",
+            "title": "Villa Cari\u00f1o",
+            "release_year": "1967",
             "plot": null,
-            "main_character_name": "Mart\u00edn Adjemi\u00e1n",
+            "main_character_name": "Roberto Airaldi",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Oliveira"
-            ]
+            "main_character_role": "inspector"
         },
         {
-            "id": "tt0346682",
-            "title": "Road to Santa Fe",
-            "release_year": "1997",
+            "id": "tt6624284",
+            "title": "Este 'milagro' llamado Racing",
+            "release_year": "1967",
             "plot": null,
-            "main_character_name": "Tito G\u00f3mez",
+            "main_character_name": "Sergio Ren\u00e1n",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                "Fern\u00e1ndez, el taxista"
-            ]
+            "main_character_role": "narrator"
         },
         {
-            "id": "tt1527105",
-            "title": "El hombre de la bolsa",
-            "release_year": "1996",
+            "id": "tt12164746",
+            "title": "Mal de chagas",
+            "release_year": "1971",
             "plot": null,
-            "main_character_name": "Arturo Maly",
+            "main_character_name": "Luis Medina Castro",
             "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0378463",
-            "title": "Nosotros",
-            "release_year": "1993",
-            "plot": null,
-            "main_character_name": "H\u00e9ctor Bidonde",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0368881",
-            "title": "Mutantes compactos",
-            "release_year": "1994",
-            "plot": null,
-            "main_character_name": "Berta Mu\u00f1iz",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0382002",
-            "title": "Los duelistas",
-            "release_year": "1996",
-            "plot": null,
-            "main_character_name": "Hugo Arana",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0320488",
-            "title": "On the Land",
-            "release_year": "1998",
-            "plot": null,
-            "main_character_name": "Graciela Borges",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "Baroness",
-                "Baronesa"
-            ]
-        },
-        {
-            "id": "tt0325073",
-            "title": "Billetes, billetes...",
-            "release_year": "1988",
-            "plot": null,
-            "main_character_name": "Mercedes Alonso",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0376626",
-            "title": "Gris bemol",
-            "release_year": "1988",
-            "plot": null,
-            "main_character_name": "Mario Alarc\u00f3n",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0305630",
-            "title": "He visto a Dios",
-            "release_year": "1981 TV Movie",
-            "plot": null,
-            "main_character_name": "Osvaldo Terranova",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0361595",
-            "title": "Ezeiza",
-            "release_year": "1997",
-            "plot": null,
-            "main_character_name": "Malena Fig\u00f3",
-            "main_character_gender": 1,
-            "main_character_role": [
-                "",
-                ""
-            ]
-        },
-        {
-            "id": "tt0310166",
-            "title": "Sostenido en La menor",
-            "release_year": "1986",
-            "plot": null,
-            "main_character_name": "Federico Luppi",
-            "main_character_gender": 0,
-            "main_character_role": [
-                "",
-                ""
-            ]
+            "main_character_role": "narrator"
         }
     ],
-    "2000_2009": [],
-    "2010_2012": [],
-    "2013_2015": [],
-    "2016_2018": [],
-    "2019_2022": []
+    "1980_1999": [
+        {
+            "id": "tt0089276",
+            "title": "The Official Story",
+            "release_year": "1985",
+            "plot": "During the final months of Argentinian Military Dictatorship in 1983, a high school teacher sets out to find out who the mother of her adopted daughter is.",
+            "main_character_name": "H\u00e9ctor Alterio",
+            "main_character_gender": 0,
+            "main_character_role": "official"
+        },
+        {
+            "id": "tt0091214",
+            "title": "Man Facing Southeast",
+            "release_year": "1986",
+            "plot": "A patient in a mental hospital claims to be an extraterrestial. Could he be right?",
+            "main_character_name": "Lorenzo Quinteros",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt0120274",
+            "title": "Tango",
+            "release_year": "1998",
+            "plot": "Mario Suarez is a forty-something tango artist, whose wife Laura has left him. He leaves his apartment and starts preparing a film about tango.",
+            "main_character_name": "Miguel \u00c1ngel Sol\u00e1",
+            "main_character_gender": 0,
+            "main_character_role": "director"
+        },
+        {
+            "id": "tt0303962",
+            "title": "In the Name of the Son",
+            "release_year": "1987",
+            "plot": "The incestuous relationship between Bobby, a doll repairer confused about his sexual identity and his overprotecting mother that abuses him while she, in turn, seeks to relive the days of ... See full summary",
+            "main_character_name": "Margot Moreyra",
+            "main_character_gender": 1,
+            "main_character_role": "repairer"
+        },
+        {
+            "id": "tt0117069",
+            "title": "Moebius",
+            "release_year": "1996",
+            "plot": "A train on the Buenos Aires subway system suddenly vanishes.",
+            "main_character_name": "Guillermo Angelelli",
+            "main_character_gender": 0,
+            "main_character_role": "director"
+        },
+        {
+            "id": "tt0085181",
+            "title": "El arreglo",
+            "release_year": "I) (1983",
+            "plot": "Luis is a righteous man who begins a struggle and a moral debate with his family, neighbors and close friends when a corrupt municipal official offers a very convenient \"arrangement\".",
+            "main_character_name": "Federico Luppi",
+            "main_character_gender": 0,
+            "main_character_role": "official"
+        },
+        {
+            "id": "tt0108291",
+            "title": "Wild Tango",
+            "release_year": "1993",
+            "plot": "A biopic based on the life of one of the pioneer argentine rock stars 'Tanguito'. The movie tells the story of his rise and fall from grace, encompassed in violent times of a military regime.",
+            "main_character_name": "Fern\u00e1n Mir\u00e1s",
+            "main_character_gender": 0,
+            "main_character_role": "pioneer"
+        },
+        {
+            "id": "tt0086017",
+            "title": "Funny Dirty Little War",
+            "release_year": "1983",
+            "plot": "A small revolution breaks out in a small Argentine town, as one group of Peronists calls they newly elected peronist a communist. The newly elected official enlists the aid of allies ... See full summary",
+            "main_character_name": "Federico Luppi",
+            "main_character_gender": 0,
+            "main_character_role": "leader"
+        },
+        {
+            "id": "tt0122117",
+            "title": "The Insatiable Widow",
+            "release_year": "1984",
+            "plot": "Isabel Sarli as a nymphomaniac wife who can't remain faithful to her husband so he seeks help from a psychologist to find out why his wife is always cheating on him with both men and women.",
+            "main_character_name": "Isabel Sarli",
+            "main_character_gender": 1,
+            "main_character_role": "psychologist"
+        },
+        {
+            "id": "tt0106989",
+            "title": "Gatica, the Monkey",
+            "release_year": "1993",
+            "plot": "An Argentina film, which narrates the life of Argentine boxer Jos\u00e9 Mar\u00eda Gatica, from his childhood until his tragic death in Buenos Aires in 1963.",
+            "main_character_name": "Edgardo Nieva",
+            "main_character_gender": 0,
+            "main_character_role": "boxer"
+        },
+        {
+            "id": "tt0120674",
+            "title": "Foolish Heart",
+            "release_year": "1998",
+            "plot": "Ju\u00e1n returns to his native Buenos Aires after 20 years to visit his dying father and tries to find Ana, his old flame.",
+            "main_character_name": "Miguel \u00c1ngel Sol\u00e1",
+            "main_character_gender": 0,
+            "main_character_role": "salesman"
+        },
+        {
+            "id": "tt0105744",
+            "title": "The Journey",
+            "release_year": "1992",
+            "plot": "Follows the journey taken by 17-year-old Martin through Latin America - by bicycle - from his snow-frozen school in Tierra del Fuego in search of his 'real' father, a cartoonist turned anthropologist believed to be in the Amazon jungle.",
+            "main_character_name": "Walter Quiroz",
+            "main_character_gender": 0,
+            "main_character_role": "anthropologist"
+        },
+        {
+            "id": "tt0091771",
+            "title": "Poor Butterfly",
+            "release_year": "1986",
+            "plot": "In May of 1945, the news of the fall of Berlin spread to Buenos Aires. Clara is the daughter of a socialist leader named Boris who has died unexpectedly. As Clara learns more about a father... See full summary",
+            "main_character_name": "Graciela Borges",
+            "main_character_gender": 1,
+            "main_character_role": "leader"
+        },
+        {
+            "id": "tt0169364",
+            "title": "Wind with the Gone",
+            "release_year": "1998",
+            "plot": "Soledad, a girl tired of being a taxi driver in Buenos Aires, travels with her car to Patagonia. She stops in a village whose inhabitants live in isolation and their only contact with the ... See full summary",
+            "main_character_name": "Vera Fogwill",
+            "main_character_gender": 1,
+            "main_character_role": "driver"
+        },
+        {
+            "id": "tt0202130",
+            "title": "Yepeto",
+            "release_year": "1999",
+            "plot": "Yepeto is a professor in his 50's, a prestigious writer who holds a chair in the literature department. Cecilia, an 18 year old student is the object of Antonio's desire. (Antonio is a ... See full summary",
+            "main_character_name": "Ulises Dumont",
+            "main_character_gender": 0,
+            "main_character_role": "profesor"
+        },
+        {
+            "id": "tt0098732",
+            "title": "Last Images of the Shipwreck",
+            "release_year": "1989",
+            "plot": "Roberto is an insurance salesman who dreams of writing his own novel. When he meets Estela, a young woman about to commit suicide, it serves him as material to make this work.",
+            "main_character_name": "Lorenzo Quinteros",
+            "main_character_gender": 0,
+            "main_character_role": "salesman"
+        },
+        {
+            "id": "tt0303987",
+            "title": "Strange Wild Women",
+            "release_year": "1988",
+            "plot": "An anthropologist accidentally arrives on an island inhabited by two opposing tribes, blond and brown women.",
+            "main_character_name": "V\u00edctor Laplace",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt0090857",
+            "title": "La cl\u00ednica del Dr. Cureta",
+            "release_year": "1987",
+            "plot": null,
+            "main_character_name": "Gianni Lunadei",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt0196459",
+            "title": "Cohen vs. Rosi",
+            "release_year": "1998",
+            "plot": "Young journalist Ariel Cohen falls in love with Carla Rosi, while investigating his father, Giancarlo, a shady businessman who runs for candidate with political aspirations.",
+            "main_character_name": "Adri\u00e1n Suar",
+            "main_character_gender": 0,
+            "main_character_role": "journalist"
+        },
+        {
+            "id": "tt0198297",
+            "title": "Alma m\u00eda",
+            "release_year": "1999",
+            "plot": "Alma, a middle class young woman from La Boca neighborhood, falls in love with Leo, an architect who is about to get married.",
+            "main_character_name": "Araceli Gonz\u00e1lez",
+            "main_character_gender": 1,
+            "main_character_role": "architect"
+        },
+        {
+            "id": "tt0204741",
+            "title": "Fading Memories",
+            "release_year": "1999",
+            "plot": "This film traces the return of a poet, Manuel, to his tiny hometown in northern Spain. This town, Higuera, is about to be flooded by a reservoir in a matter of days. The film examines ... See full summary",
+            "main_character_name": "Federico Luppi",
+            "main_character_gender": 0,
+            "main_character_role": "poet"
+        },
+        {
+            "id": "tt0211347",
+            "title": "La edad del sol",
+            "release_year": "1999",
+            "plot": "Famed Argentine folk singer Soledad abandons her planned artistic tour throughout Spain to accompany her schoolmates on a trip to the city of Bariloche.",
+            "main_character_name": "Soledad Pastorutti",
+            "main_character_gender": 1,
+            "main_character_role": "singer"
+        },
+        {
+            "id": "tt0092552",
+            "title": "Die Liebe einer dicken Frau",
+            "release_year": "1987",
+            "plot": "Jos\u00e9 is a young journalist who gets fired over refusing to write an article about an American film crew, overdramatizing the situation in Argentina. When he goes looking for his old girlfriend, he runs into the crew again.",
+            "main_character_name": "Elio Marchi",
+            "main_character_gender": 0,
+            "main_character_role": "journalist"
+        },
+        {
+            "id": "tt0176501",
+            "title": "Under Flag",
+            "release_year": "1997",
+            "plot": "A Mayor has been sent to Patagonia to investigate the murder of a soldier. When the military seized power, he is forced to abandon the case. With the restoration of democracy, the case is reopened with a few consequences.",
+            "main_character_name": "Miguel \u00c1ngel Sol\u00e1",
+            "main_character_gender": 0,
+            "main_character_role": "mayor"
+        },
+        {
+            "id": "tt0092553",
+            "title": "The Loves of Kafka",
+            "release_year": "1988",
+            "plot": "A movie director from Argentine travels to Prague to make a film about Franz Kafka and Milena Jesensk\u00e1.",
+            "main_character_name": "Sus\u00fa Pecoraro",
+            "main_character_gender": 1,
+            "main_character_role": "director"
+        },
+        {
+            "id": "tt0300377",
+            "title": "El profesor Punk",
+            "release_year": "1988",
+            "plot": null,
+            "main_character_name": "Jorge Porcel",
+            "main_character_gender": 0,
+            "main_character_role": "profesor"
+        },
+        {
+            "id": "tt0118905",
+            "title": "La cruz",
+            "release_year": "1997",
+            "plot": "Alfredo loses his job as a film critic after twenty years working for the same newspaper. His work mates have been trying to help him for a year because he is always drunk and angry, and ... See full summary",
+            "main_character_name": "Norman Briski",
+            "main_character_gender": 0,
+            "main_character_role": "newspaper"
+        },
+        {
+            "id": "tt0234295",
+            "title": "Beyond the Limit",
+            "release_year": "1995",
+            "plot": "(Spa)...Un hombre permanece en silencio solo observando el amanecer el es el inspector Bechara (Mario Pasik) y hoy tiene encomendada la riesgosa tarea de investigar a Oscar Galvani (Daniel ... See full synopsis",
+            "main_character_name": "Mario Pasik",
+            "main_character_gender": 0,
+            "main_character_role": "inspector"
+        },
+        {
+            "id": "tt0218564",
+            "title": "Hidden River",
+            "release_year": "1999",
+            "plot": "A young working mother in Buenos Aires, Ana reads a note suggesting a relationship kept hidden by her husband, an executive preoccupied by his job. To solve the mystery she travels a long ... See full summary",
+            "main_character_name": "Paola Krum",
+            "main_character_gender": 1,
+            "main_character_role": "executive"
+        },
+        {
+            "id": "tt0194794",
+            "title": "From My Neighborhood with Love",
+            "release_year": "1996",
+            "plot": "A depiction of life in a Buenos Aires neighborhood, through the adventures and misadventures of a dozen characters. The central story concerns Pirucho, a tango dancer who pursues Margarita, a widow.",
+            "main_character_name": "Luis Brandoni",
+            "main_character_gender": 0,
+            "main_character_role": "dancer"
+        },
+        {
+            "id": "tt0168599",
+            "title": "Comandos azules en acci\u00f3n",
+            "release_year": "1980",
+            "plot": "In Argentina, which is a land of peace, is about to achieve a fantastic discovery that will benefit the world.",
+            "main_character_name": "Jorge Mart\u00ednez",
+            "main_character_gender": 0,
+            "main_character_role": "model"
+        },
+        {
+            "id": "tt0172460",
+            "title": "Flop",
+            "release_year": "1990",
+            "plot": "Based on the life of Florencio Parravicini, one of the first aviators of the country who after squandering his fortune worked as a shooter, actor and monologue in the first half of the twentieth century.",
+            "main_character_name": "V\u00edctor Laplace",
+            "main_character_gender": 0,
+            "main_character_role": "shooter"
+        },
+        {
+            "id": "tt1416755",
+            "title": "Miedo sat\u00e1nico",
+            "release_year": "1992 TV Movie",
+            "plot": "Young Helena has fallen into a vegetative state after witnessing the gruesome murders of three schoolmates. As she begins to transmit disturbing visions to Dr. Brogan, he will delve into the Catholic school's dark past.",
+            "main_character_name": "Daniel Miglioranza",
+            "main_character_gender": 0,
+            "main_character_role": "inspector"
+        }
+    ],
+    "2000_2009": [
+        {
+            "id": "tt0291988",
+            "title": "Intimate Stories",
+            "release_year": "2002",
+            "plot": "Three people and a baby set off on separate journeys, along the same road; their disparate dreams and stories intertwine amidst the breathtaking deserted Patagonic route.",
+            "main_character_name": "Javier Lombardo",
+            "main_character_gender": 0,
+            "main_character_role": "salesman"
+        },
+        {
+            "id": "tt0420509",
+            "title": "The Aura",
+            "release_year": "2005",
+            "plot": "A deluded taxidermist plans the perfect crime.",
+            "main_character_name": "Ricardo Dar\u00edn",
+            "main_character_gender": 0,
+            "main_character_role": "taxidermist"
+        },
+        {
+            "id": "tt1283896",
+            "title": "Gods",
+            "release_year": "2008",
+            "plot": "Elisa, fiancee of a wealthy industrialist who is twenty years older than her is eager to shed her working-class background in favor of the opulence of her fianc\u00e9's elite lifestyle. To her ... See full summary",
+            "main_character_name": "Maricielo Effio",
+            "main_character_gender": 0,
+            "main_character_role": "industrialist"
+        },
+        {
+            "id": "tt0239955",
+            "title": "I Know Who You Are",
+            "release_year": "2000",
+            "plot": "Paloma is a young psychiatrist, who is hired to work as a director of a clinic in Galicia, and is attracted to Mario, her very first patient. He suffers from a rare form of amnesia, ... See full summary",
+            "main_character_name": "Miguel \u00c1ngel Sol\u00e1",
+            "main_character_gender": 0,
+            "main_character_role": "psychiatrist"
+        },
+        {
+            "id": "tt0296915",
+            "title": "Valentin",
+            "release_year": "I) (2002",
+            "plot": "An 8-year-old boy, raised by his grandmother, is surrounded by problems in his family he finds only himself capable of solving.",
+            "main_character_name": "Rodrigo Noya",
+            "main_character_gender": 0,
+            "main_character_role": "teacher"
+        },
+        {
+            "id": "tt0347207",
+            "title": "Today and Tomorrow",
+            "release_year": "2003",
+            "plot": "At 24, Paula wants to be an actress, but if she doesn't find her rent money she'll be homeless in 24 hours. Paula is so desperate that she seriously contemplates becoming a prostitute.",
+            "main_character_name": "Antonella Costa",
+            "main_character_gender": 1,
+            "main_character_role": "actress"
+        },
+        {
+            "id": "tt0329330",
+            "title": "Common Ground",
+            "release_year": "2002",
+            "plot": "In Buenos Aires, a few days before traveling to Spain with his beloved wife Liliana Rovira to visit their son Pedro, the leftist Literature professor Fernando Robles is compulsory retired ... See full summary",
+            "main_character_name": "Federico Luppi",
+            "main_character_gender": 0,
+            "main_character_role": "professor"
+        },
+        {
+            "id": "tt0347131",
+            "title": "The Magic Gloves",
+            "release_year": "2003",
+            "plot": "Alejandro is a taxi driver about thirty- five years is suddenly in the midst of separations, violent weather changes, sudden wealth and characters who want to return to Argentina.",
+            "main_character_name": "Vicentico",
+            "main_character_gender": 0,
+            "main_character_role": "driver"
+        },
+        {
+            "id": "tt0362276",
+            "title": "Vereda tropical",
+            "release_year": "2004",
+            "plot": "Film about the writer Manuel Puig and the years he spent in R\u00edo de Janeiro.",
+            "main_character_name": "Fabio Aste",
+            "main_character_gender": 0,
+            "main_character_role": "writer"
+        },
+        {
+            "id": "tt0346765",
+            "title": "Cleopatra",
+            "release_year": "2003",
+            "plot": "A retired teacher and a soap star leave their routines and the men in their lives behind and embark on a weekend trip.",
+            "main_character_name": "Norma Aleandro",
+            "main_character_gender": 1,
+            "main_character_role": "teacher"
+        },
+        {
+            "id": "tt0303267",
+            "title": "The Last Train",
+            "release_year": "2002",
+            "plot": "Three old man, a little boy training to protect an old patrimony, La \"33\", the last train.",
+            "main_character_name": "H\u00e9ctor Alterio",
+            "main_character_gender": 0,
+            "main_character_role": "profesor"
+        },
+        {
+            "id": "tt1189361",
+            "title": "Blood Appears",
+            "release_year": "2008",
+            "plot": "Cab driver Arturo has to find $2000 within 24 hours; his older son, Ramiro, who left home four years ago, has just phoned from Houston asking for urgent help. However, Arturo's wife Irene ... See full summary",
+            "main_character_name": "Arturo Goetz",
+            "main_character_gender": 0,
+            "main_character_role": "driver"
+        },
+        {
+            "id": "tt0291310",
+            "title": "Freedom",
+            "release_year": "2001",
+            "plot": "A man chop down trees, organizes the trunks, clean them, stops to defecate, lunch, nap and continues to sell its timber.",
+            "main_character_name": "Misael Saavedra",
+            "main_character_gender": 0,
+            "main_character_role": "lumberjack"
+        },
+        {
+            "id": "tt0287915",
+            "title": "Animalada",
+            "release_year": "2001",
+            "plot": "When rancher Alberto meets \"Fanny\", a sheep on his farm, a love is born and Baa-aa-ad things begin happening.",
+            "main_character_name": "Carlos Roff\u00e9",
+            "main_character_gender": 0,
+            "main_character_role": "rancher"
+        },
+        {
+            "id": "tt0490016",
+            "title": "Tres minutos",
+            "release_year": "2007",
+            "plot": "\"Three minutes\" is a film in the fantasy genre. It is the love story between Alex, a journalist who, forced to speak very quickly in his newscast, must take this substance that accelerates ... See full summary",
+            "main_character_name": "Nicol\u00e1s Pauls",
+            "main_character_gender": 0,
+            "main_character_role": "journalist"
+        },
+        {
+            "id": "tt0317603",
+            "title": "Strange",
+            "release_year": "2003",
+            "plot": "The protagonist is Axel, aged about 40, a doctor who no longer practices his craft. He is living temporarily with his sister and her children. He doesn't do much, just exists a little ... See full summary",
+            "main_character_name": "Julio Ch\u00e1vez",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt1884379",
+            "title": "Operativo Soberan\u00eda",
+            "release_year": "2006",
+            "plot": null,
+            "main_character_name": "Gast\u00f3n Pauls",
+            "main_character_gender": 0,
+            "main_character_role": "narrator"
+        },
+        {
+            "id": "tt1467411",
+            "title": "Teresa: Crucificada por amar",
+            "release_year": "2009",
+            "plot": "Teresa Wilms Montt, a writer, a rebellious woman, tormented and beautiful. She marries at 17 challenging family opposition. She falls in love with someone she should not and the family court condemns her to confinement in a convent.",
+            "main_character_name": "Francisca Lewin",
+            "main_character_gender": 1,
+            "main_character_role": "writer"
+        },
+        {
+            "id": "tt0293567",
+            "title": "Sammy and Me",
+            "release_year": "2002",
+            "plot": "Samy Goldstein, a writer for a television program, is surrounded by an oppressive female environment. Then decides to resume his passion for literature. Meet Mary, a beauty in crisis. From there a series of misunderstandings will happen.",
+            "main_character_name": "Ricardo Dar\u00edn",
+            "main_character_gender": 0,
+            "main_character_role": "writer"
+        },
+        {
+            "id": "tt0774657",
+            "title": "La profesora",
+            "release_year": "2005",
+            "plot": null,
+            "main_character_name": "Mim\u00ed Ard\u00fa",
+            "main_character_gender": 1,
+            "main_character_role": "professor"
+        },
+        {
+            "id": "tt0322346",
+            "title": "El fuego y el so\u00f1ador",
+            "release_year": "2005",
+            "plot": null,
+            "main_character_name": "Boy Olmi",
+            "main_character_gender": 0,
+            "main_character_role": "director"
+        },
+        {
+            "id": "tt0362789",
+            "title": "Ay Juancito",
+            "release_year": "2004",
+            "plot": "Film about the life of Juan Duarte, Eva Per\u00f3n's brother and a political officer in Juan Domingo Per\u00f3n's first presidency.",
+            "main_character_name": "Adri\u00e1n Navarro",
+            "main_character_gender": 0,
+            "main_character_role": "officer"
+        },
+        {
+            "id": "tt0361437",
+            "title": "Chiche bomb\u00f3n",
+            "release_year": "2004",
+            "plot": "In Argentina's Cuidad de San Luis, the economy's tanked; there are few prospects for young people. At 27, Chiche, whose acting career never got off the ground, is pregnant, unemployed, ... See full summary",
+            "main_character_name": "Andrea Galante",
+            "main_character_gender": 1,
+            "main_character_role": "acting"
+        },
+        {
+            "id": "tt0237817",
+            "title": "Tesoro m\u00edo",
+            "release_year": "2000",
+            "plot": "Based on a true crime, \"Treasure of Mine\" follows a week in the life of Carlos Dietrich, a dark bank officer for the past 22 years at the Bank of Argentina. At 40, Dietrich faces an end to ... See full summary",
+            "main_character_name": "Gabriel Goity",
+            "main_character_gender": 0,
+            "main_character_role": "bank officer"
+        },
+        {
+            "id": "tt0287031",
+            "title": "Toc\u00e1 para m\u00ed",
+            "release_year": "2001",
+            "plot": "Punk musician Carlos decides to set out to find out about his family history when his adoptive father Genaro dies. He leaves Buenos Aires with the bandoneon of Genaro as his only company ... See full summary",
+            "main_character_name": "Hermes Gaido",
+            "main_character_gender": 0,
+            "main_character_role": "musician"
+        },
+        {
+            "id": "tt0293093",
+            "title": "Dibu 3",
+            "release_year": "2002",
+            "plot": "Facing an imminent attack from Mars, planet Earth sends Dibu to Mars as a peace ambassador - the only hope for averting the attack. Amazingly, he finds a friendly population, whose only ... See full summary",
+            "main_character_name": "Alejandro Awada",
+            "main_character_gender": 0,
+            "main_character_role": "profesor"
+        },
+        {
+            "id": "tt0285683",
+            "title": "The Place That Was Paradise",
+            "release_year": "2002",
+            "plot": "In Iquitos, during the era of military dictatorships, a consul must face the arrival of a daughter he does not see in years and the stalking of a military collaborator diplomat who comes to discover his protection to a deserter pilot.",
+            "main_character_name": "Federico Luppi",
+            "main_character_gender": 0,
+            "main_character_role": "diplomat"
+        },
+        {
+            "id": "tt1220899",
+            "title": "Love by Accident",
+            "release_year": "2008",
+            "plot": "At the bar \"La Ronda\" Javier breaks up with Luc\u00eda, who works there as a waitress. He then meets M\u00f3nica, who is not attracted to him but falls for Luis, the house painter. But when he ... See full summary",
+            "main_character_name": "Mercedes Mor\u00e1n",
+            "main_character_gender": 1,
+            "main_character_role": "painter"
+        },
+        {
+            "id": "tt1303865",
+            "title": "Inc\u00f3modos",
+            "release_year": "2008",
+            "plot": "Three friends face outstanding bills on a trip to their hometown.",
+            "main_character_name": "Ricardo Bauleo",
+            "main_character_gender": 0,
+            "main_character_role": "pianist"
+        },
+        {
+            "id": "tt1058098",
+            "title": "Pabell\u00f3n 86",
+            "release_year": "2007",
+            "plot": null,
+            "main_character_name": "Pascual Condito",
+            "main_character_gender": 0,
+            "main_character_role": "director"
+        },
+        {
+            "id": "tt0288424",
+            "title": "El amor y el espanto",
+            "release_year": "2001",
+            "plot": "A fictitious incident in the life of the Argentine short-story writer and poet Jorge Luis Borges.",
+            "main_character_name": "Miguel \u00c1ngel Sol\u00e1",
+            "main_character_gender": 0,
+            "main_character_role": "writer"
+        }
+    ],
+    "2010_2012": [
+        {
+            "id": "tt1542852",
+            "title": "Carancho",
+            "release_year": "2010",
+            "plot": "An ambulance chaser/carancho falls for an ER/ambulance doctor, he meets one night \"at work\" in Buenos Aires.",
+            "main_character_name": "Ricardo Dar\u00edn",
+            "main_character_gender": 0,
+            "main_character_role": "lawyer"
+        },
+        {
+            "id": "tt2125500",
+            "title": "The Last Elvis",
+            "release_year": "2012",
+            "plot": "A tragic accident causes an Elvis impersonator to reassess his priorities.",
+            "main_character_name": "John McInerny",
+            "main_character_gender": 0,
+            "main_character_role": "impersonator"
+        },
+        {
+            "id": "tt1442556",
+            "title": "Gaturro",
+            "release_year": "2010",
+            "plot": "Gaturro is always getting into trouble, and his master doesn't know what to do with him. Gaturro's heart belongs to Agatha, the most unpleasant cat of the town. His several attempts to ... See full summary",
+            "main_character_name": "Mariano Chiesa",
+            "main_character_gender": 0,
+            "main_character_role": "master"
+        },
+        {
+            "id": "tt1741283",
+            "title": "Cowboy",
+            "release_year": "2011",
+            "plot": "The story of Juli\u00e1n Lamar, an Argentine actor who tries to get a part in a North American western that will be shot in Argentina.",
+            "main_character_name": "Juan Minuj\u00edn",
+            "main_character_gender": 0,
+            "main_character_role": "actor"
+        },
+        {
+            "id": "tt1904835",
+            "title": "La suerte en tus manos",
+            "release_year": "2012",
+            "plot": "A professional poker player seeks out an old flame after his marriage fizzles.",
+            "main_character_name": "Luis Brandoni",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt1841584",
+            "title": "The Cat Vanishes",
+            "release_year": "2011",
+            "plot": "Luis, a recognized university professor is out of the psychiatric clinic where he spent the last three years, hospitalized after a psychotic episode that led him to threaten his wife and ... See full summary",
+            "main_character_name": "Luis Luque",
+            "main_character_gender": 0,
+            "main_character_role": "professor"
+        },
+        {
+            "id": "tt1815893",
+            "title": "Hostage of an Illusion",
+            "release_year": "2012",
+            "plot": "Pablo, an over-the-hill novelist, is haunted by the characters from his books, who are angry that he won't continue to write their lives.",
+            "main_character_name": "Daniel Fanego",
+            "main_character_gender": 0,
+            "main_character_role": "novelist"
+        },
+        {
+            "id": "tt2388639",
+            "title": "Amor a mares",
+            "release_year": "2012",
+            "plot": "Javier is a successful writer of novels that, since his wife left him, lives plunged into a creative crisis. Concerned about this situation, his literary agent has a great idea: to embark ... See full summary",
+            "main_character_name": "Luciano Castro",
+            "main_character_gender": 0,
+            "main_character_role": "writer"
+        },
+        {
+            "id": "tt1117593",
+            "title": "Kluge",
+            "release_year": "2010",
+            "plot": "Kluge a psychological thriller, a suspense story, about a French journalist, Anne, who is preparing a research paper on Argentina by interviewing female professionals. Travel to Buenos ... See full summary",
+            "main_character_name": "Laura Harring",
+            "main_character_gender": 1,
+            "main_character_role": "journalist"
+        },
+        {
+            "id": "tt1527170",
+            "title": "My Days with Gloria",
+            "release_year": "2010",
+            "plot": "Roberto is a hit man in conflict with his profession and burdened by gambling debts. Every time it costs more to kill and the police are looking for it. Gloria is an actress from the 60s ... See full summary",
+            "main_character_name": "Isabel Sarli",
+            "main_character_gender": 1,
+            "main_character_role": "actress"
+        },
+        {
+            "id": "tt2179678",
+            "title": "Soledad y Larguirucho",
+            "release_year": "2012",
+            "plot": "Soledad Pastorutti and his friend Larguirucho go on a tour through Argentina while evading the wrong deeds of Cachavacha, the witch.",
+            "main_character_name": "Guillermo Andino",
+            "main_character_gender": 0,
+            "main_character_role": "presenter"
+        },
+        {
+            "id": "tt2139855",
+            "title": "Estamos Juntos",
+            "release_year": "2011",
+            "plot": "The plot centers on a young female doctor Carmen with a terminal disease. A feeling of urgency unconsciously leads her to live each moment of her life as it were the last. During this ... See full summary",
+            "main_character_name": "Leandra Leal",
+            "main_character_gender": 1,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt2185431",
+            "title": "Nosilatiaj. La Belleza",
+            "release_year": "2012",
+            "plot": "Set in the north of Argentina. Yolanda, a young girl of Wichi origin, tells in her native language (Wichi Lh\u00e4mtes), the story of how, as a family maid in a \"criollo\" home, she has her hair ... See full summary",
+            "main_character_name": "Rosmeri Segundo",
+            "main_character_gender": 0,
+            "main_character_role": "maid"
+        },
+        {
+            "id": "tt2032568",
+            "title": "Topos",
+            "release_year": "2012",
+            "plot": "In a post-apocalyptic universe, two worlds exist. On the surface, a regime that isolates the individuals, while underground a whole city is condemned to crawl through tunnels. Yet the Mole ... See full summary",
+            "main_character_name": "Pompeyo Audivert",
+            "main_character_gender": 0,
+            "main_character_role": "supervisor"
+        },
+        {
+            "id": "tt2033942",
+            "title": "Glorious Accidents",
+            "release_year": "2011",
+            "plot": "The automobile accidents are instant artistic sculptures, made in seconds, at least for a certain Buenos Aires photographer who spends his nights in his car, in search of the perfect ... See full summary",
+            "main_character_name": "Cristina Banegas",
+            "main_character_gender": 1,
+            "main_character_role": "narrator"
+        },
+        {
+            "id": "tt1730681",
+            "title": "Chasqui",
+            "release_year": "2010",
+            "plot": "General San Martin has stopped in the Cordillera and the crossing of the Andes does not advance. Rivadavia is that triune. A simple chasqui (courier), advised by an aboriginal witch, will try to solve the situation.",
+            "main_character_name": "Diego Capusotto",
+            "main_character_gender": 0,
+            "main_character_role": "salesman"
+        }
+    ],
+    "2013_2015": [
+        {
+            "id": "tt3754940",
+            "title": "Truman",
+            "release_year": "2015",
+            "plot": "Juli\u00e1n receives an unexpected visit from his friend Tom\u00e1s, who lives in Canada. The two men, accompanied by Juli\u00e1n's faithful dog, Truman, will share emotional and surprising moments prompted by Juli\u00e1n's complicated situation.",
+            "main_character_name": "Ricardo Dar\u00edn",
+            "main_character_gender": 0,
+            "main_character_role": "professor"
+        },
+        {
+            "id": "tt2484530",
+            "title": "Amapola",
+            "release_year": "2014",
+            "plot": "The beautiful actress Amapola is magically transported into a tragic future on the eve of war. Returning to the present day, she strives to change her family and country's fate.",
+            "main_character_name": "Camilla Belle",
+            "main_character_gender": 1,
+            "main_character_role": "ama"
+        },
+        {
+            "id": "tt3528486",
+            "title": "The Irish Prisoner",
+            "release_year": "2015",
+            "plot": "The Irish prisoner is the love story between Luisa Ochoa, a young widow and Conor Doolin, an Irish soldier who was taken prisoner after the English invasion of Buenos Aires in 1806, who ... See full summary",
+            "main_character_name": "Alexia Moyano",
+            "main_character_gender": 1,
+            "main_character_role": "soldier"
+        },
+        {
+            "id": "tt3963466",
+            "title": "The Rotten Link",
+            "release_year": "2015",
+            "plot": "In a little village with 20 houses, isolated in the countryside, lives Raulo, a 50 year-old retarded lumberjack, with Ercilia, his senile witch doctor mother, and Roberta, his sister, the ... See full summary",
+            "main_character_name": "Luis Ziembrowski",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt3671924",
+            "title": "The Land of Silence",
+            "release_year": "2014",
+            "plot": "In the abandoned town of La Estancia, bound by time and space, an unusual relationship develops between one of the last inhabitants, Juan Diego and the filmmaker documenting his life.",
+            "main_character_name": "Gilberto Barraza",
+            "main_character_gender": 0,
+            "main_character_role": "filmmaker"
+        },
+        {
+            "id": "tt5153260",
+            "title": "Kryptonite",
+            "release_year": "2015",
+            "plot": "An Argentinian adaptation of the Justice League series.",
+            "main_character_name": "Diego Vel\u00e1zquez",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt2718462",
+            "title": "The Reconstruction",
+            "release_year": "2013",
+            "plot": "Eduardo (Diego Peretti) is an obsessive and efficient oil plant worker who finds his solitary routine is altered when summoned to travel to Ushuaia for a few days. The trip and reunion with... See full summary",
+            "main_character_name": "Diego Peretti",
+            "main_character_gender": 0,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt1809214",
+            "title": "5.5.5",
+            "release_year": "2013",
+            "plot": "Gabriel, a professor of philosophy and logic in the night school, will be immersed in trying to understand the meaning of the prophetic drawings of Benjamin Solari Parravicini, an Argentine... See full summary",
+            "main_character_name": "Antonio Birabent",
+            "main_character_gender": 0,
+            "main_character_role": "professor"
+        },
+        {
+            "id": "tt4168698",
+            "title": "Arrebato",
+            "release_year": "2014",
+            "plot": "Luis Vega, writer and literature professor is accused of murder following the publication of his novel \"Arrebato\" which recounts in detail a crime happened in real life",
+            "main_character_name": "Pablo Echarri",
+            "main_character_gender": 0,
+            "main_character_role": "professor"
+        },
+        {
+            "id": "tt3907102",
+            "title": "Los hongos",
+            "release_year": "2014",
+            "plot": "Ras is a construction worker and graffiti artist in his neighborhood of east Cali, Colombia. After he loses his job he sets off on a journey across the city to find another graffiti artist.",
+            "main_character_name": "Jovan Alexis Marquinez",
+            "main_character_gender": 0,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt3508514",
+            "title": "Reimon",
+            "release_year": "2014",
+            "plot": "Ramona is a domestic worker who spends her time working for hours in some departments of the Buenos Aires middle class and an office building where she is responsible for cleaning when there is no one left but the security guard.",
+            "main_character_name": "Marcela Dias",
+            "main_character_gender": 0,
+            "main_character_role": "domestic worker"
+        },
+        {
+            "id": "tt3715392",
+            "title": "Ditches",
+            "release_year": "2015",
+            "plot": "A portrait of Zamora, a rural worker exiled in Patagonia in a town that suffers feminicides of teenagers thrown into ditches once dead. Through hard work, Zamora intends to expiate his guilt.",
+            "main_character_name": "Diego Alonso G\u00f3mez",
+            "main_character_gender": 0,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt5006094",
+            "title": "The Ways of Wine",
+            "release_year": "2015",
+            "plot": "The famous Sommelier Charlie Arturaola fell from grace after a momentary loss of his taste during the shooting of a movie. The image of \"a Sommelier without palate\" destroyed his career. ... See full summary",
+            "main_character_name": "Charlie Arturaola",
+            "main_character_gender": 0,
+            "main_character_role": "sommelier"
+        },
+        {
+            "id": "tt3460184",
+            "title": "Lock Charmer",
+            "release_year": "2014",
+            "plot": "Sebastian, a locksmith who doesn't believe in committed relationships, learns from his recent girlfriend, Monica, that she's pregnant and he might be the father. At the same time, he ... See full summary",
+            "main_character_name": "Esteban Lamothe",
+            "main_character_gender": 0,
+            "main_character_role": "locksmith"
+        },
+        {
+            "id": "tt1612760",
+            "title": "Forajidos de la Patagonia",
+            "release_year": "2014",
+            "plot": "Pancho (Juan Manuel Rodil) is an independent filmmaker from Buenos Aires which is pushed by his grandfather Faust (Horacio Dener), to go after the loot of Butch Cassidy, who lived in ... See full summary",
+            "main_character_name": "Juan Manuel Rodil",
+            "main_character_gender": 0,
+            "main_character_role": "filmmaker"
+        }
+    ],
+    "2016_2018": [
+        {
+            "id": "tt4964788",
+            "title": "Everybody Knows",
+            "release_year": "2018",
+            "plot": "Laura, a Spanish woman living in Buenos Aires, returns to her hometown outside Madrid with her two children to attend her sister's wedding. However, the trip is upset by unexpected events that bring secrets into the open.",
+            "main_character_name": "Pen\u00e9lope Cruz",
+            "main_character_gender": 1,
+            "main_character_role": "police officer"
+        },
+        {
+            "id": "tt6312802",
+            "title": "Dry Martina",
+            "release_year": "2018",
+            "plot": "Martina was a famous singer in Argentina during the late 90s, who's become completely frigid and disenchanted with love. The arrival of a so-called sister, alongside her attractive boyfriend, compel Martina to go to Chile with one objective in mind: getting back her libido.",
+            "main_character_name": "Antonella Costa",
+            "main_character_gender": 1,
+            "main_character_role": "singer"
+        },
+        {
+            "id": "tt4791322",
+            "title": "Tiger, Blood in the Mouth",
+            "release_year": "2016",
+            "plot": "Ram\u00f3n Alvia is a professional boxer who, although he has won several international championships, is old and is at the end of his career. He resists. In the gym, Ramon discovers among the young boxers Deborah, a beautiful girl.",
+            "main_character_name": "Leonardo Sbaraglia",
+            "main_character_gender": 0,
+            "main_character_role": "professional boxer"
+        },
+        {
+            "id": "tt9047474",
+            "title": "La Flor",
+            "release_year": "2018",
+            "plot": "A film in six episodes, connected by the same four actresses, full of various subplots that play with narrative and different cinematic genres , everything structured in an unusual way.",
+            "main_character_name": "Elisa Carricajo",
+            "main_character_gender": 1,
+            "main_character_role": "agent"
+        },
+        {
+            "id": "tt3810810",
+            "title": "Nobody's Watching",
+            "release_year": "2017",
+            "plot": "Nico leaves a promising acting career in Argentina after a romantic break-up with his married producer. He lands in New York City, lured into believing that his talent will help him succeed \"on his own\". But that's not what he discovers.",
+            "main_character_name": "Guillermo Pfening",
+            "main_character_gender": 0,
+            "main_character_role": "producer"
+        },
+        {
+            "id": "tt5680678",
+            "title": "Inseparables",
+            "release_year": "2016",
+            "plot": "Felipe a wealthy businessman who has been quadriplegic, due to an accident, is looking for a therapeutic assistant. There are several highly qualified, but he decides to take the assistant of his gardener, Tito who has decided to resign.",
+            "main_character_name": "Oscar Mart\u00ednez",
+            "main_character_gender": 0,
+            "main_character_role": "assistant"
+        },
+        {
+            "id": "tt5679536",
+            "title": "A Decent Woman",
+            "release_year": "2016",
+            "plot": "A housemaid, working in an exclusive gated community in the outskirts of Buenos Aires, embarks on a journey of sexual and mental liberation in a nudist swinger-club boarding the high security walls.",
+            "main_character_name": "Iride Mockert",
+            "main_character_gender": 1,
+            "main_character_role": "maid"
+        },
+        {
+            "id": "tt8150768",
+            "title": "We Are Thr3e",
+            "release_year": "2018",
+            "plot": "Nacho is an accountant, an average guy. At a party he meets Ana, a recently divorced and self confident young woman. Then they meet the charismatic bartender Sebastian, who starts flirting ... See full summary",
+            "main_character_name": "Charly Etch\u00e9vers",
+            "main_character_gender": 0,
+            "main_character_role": "accountant"
+        },
+        {
+            "id": "tt7611618",
+            "title": "Yo soy as\u00ed, Tita de Buenos Aires",
+            "release_year": "2017",
+            "plot": "A portrait of the life of famous Argentinian singer and actress Tita Merello.",
+            "main_character_name": "Mercedes Funes",
+            "main_character_gender": 1,
+            "main_character_role": "singer"
+        },
+        {
+            "id": "tt8311792",
+            "title": "Murder Me, Monster",
+            "release_year": "2018",
+            "plot": "Rural police officer Cruz investigates the bizarre case of a headless woman's body found in a remote region by the Andes Mountains. David, the husband of Cruz's lover Francisca, becomes the... See full summary",
+            "main_character_name": "Victor Lopez",
+            "main_character_gender": 0,
+            "main_character_role": "police officer"
+        },
+        {
+            "id": "tt5991974",
+            "title": "The Last Suit",
+            "release_year": "2017",
+            "plot": "Abraham Bursztein, an 88 year-old Jewish tailor, runs away from Buenos Aires to Poland, where he proposes to find a friend who saved him from certain death at the end of World War II. After... See full summary",
+            "main_character_name": "Miguel \u00c1ngel Sol\u00e1",
+            "main_character_gender": 0,
+            "main_character_role": "tailor"
+        },
+        {
+            "id": "tt7943248",
+            "title": "Marilyn",
+            "release_year": "2018",
+            "plot": "Marcos, a seventeen-year-old farm worker, discovers his sexuality in a hostile environment.",
+            "main_character_name": "Walter Rodr\u00edguez",
+            "main_character_gender": 0,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt5541206",
+            "title": "The Idea of a Lake",
+            "release_year": "2016",
+            "plot": "In\u00e8s, 35 years old, is a photographer. She is in an emotionally fragile phase and begins putting together a book of personal poems and photographs. Gradually, the process of bringing a book... See full summary",
+            "main_character_name": "Carla Crespo",
+            "main_character_gender": 1,
+            "main_character_role": "photographer"
+        },
+        {
+            "id": "tt7358302",
+            "title": "The Uncovering",
+            "release_year": "2018",
+            "plot": "The sudden appearance of an Albanian woman (Vera) in a coastal town causes that Jordi, recently arrived from Argentina to attend the funeral of an important Minister, decides to investigate... See full summary",
+            "main_character_name": "Michel Noher",
+            "main_character_gender": 0,
+            "main_character_role": "minister"
+        },
+        {
+            "id": "tt3846334",
+            "title": "I'm Gilda",
+            "release_year": "2016",
+            "plot": "The life and death of the tropical singer Gilda.",
+            "main_character_name": "Natalia Oreiro",
+            "main_character_gender": 1,
+            "main_character_role": "singer"
+        },
+        {
+            "id": "tt8988906",
+            "title": "Atrevidas",
+            "release_year": "2018",
+            "plot": "Ana is a therapeutic companion who maintains a secret and guilty romance with Leo, the boyfriend of her best friend, Dolo. Dolo settles in Ana's house, causing a situation that gets more ... See full summary",
+            "main_character_name": "Sofia Bertolotto",
+            "main_character_gender": 1,
+            "main_character_role": "companion"
+        },
+        {
+            "id": "tt7679672",
+            "title": "El azote",
+            "release_year": "2017",
+            "plot": "Carlos, a social worker who works with minors with law's problems, in a short time, must face the breakup of his partner, the solitary care of his invalid mother and the arrival of two new ... See full summary",
+            "main_character_name": "Kiran Sharbis",
+            "main_character_gender": 0,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt6639886",
+            "title": "Night Watch",
+            "release_year": "2017",
+            "plot": "Fernando (Gast\u00f3n Pauls), a lonely and tormented man, gets a job as a night watchman in a warehouse close to being demolished. The building is huge, with several floors and wings ... See full summary",
+            "main_character_name": "Gast\u00f3n Pauls",
+            "main_character_gender": 0,
+            "main_character_role": "night watchman"
+        },
+        {
+            "id": "tt5221004",
+            "title": "Doidas e Santas",
+            "release_year": "2016",
+            "plot": "Beatriz is a famous psychoanalyst who teaches others to be happy, but isn't able to be happy herself. Things take a turn when her mother's death takes her traveling with her sister to Buenos Aires to comply with the unusual directives she left in her will.",
+            "main_character_name": "Maria Paula",
+            "main_character_gender": 1,
+            "main_character_role": "psychoanalyst"
+        },
+        {
+            "id": "tt6238798",
+            "title": "Facing the Wind",
+            "release_year": "2018",
+            "plot": "M\u00f3nica, a 47-year old dancer, receives a call from Spain: her father is terminally ill. After 20 years, M\u00f3nica must return to the remote village where she was born. When she arrives, her ... See full summary",
+            "main_character_name": "M\u00f3nica Garc\u00eda",
+            "main_character_gender": 0,
+            "main_character_role": "dancer"
+        },
+        {
+            "id": "tt4018040",
+            "title": "Angelita la doctora",
+            "release_year": "2016",
+            "plot": "Angelita is a nurse in her mid fifties working in a guard at a public hospital in Berazategui, two nights a week, visiting her patients during the day with her motorcycle. Her daily life is split into two worlds: the elder and teenagers.",
+            "main_character_name": "Ana Mar\u00eda Picchio",
+            "main_character_gender": 1,
+            "main_character_role": "guard"
+        },
+        {
+            "id": "tt8463494",
+            "title": "Viaje inesperado",
+            "release_year": "2018",
+            "plot": "Engineer Pablo Marcet, installed in Brazil, receives a call from Ana, his ex-wife, their son, Andres, is out of control, he brought a machete to school to cut the grass. Father and son travel to the city of Bolivar, chosen place to connect",
+            "main_character_name": "Pablo Rago",
+            "main_character_gender": 0,
+            "main_character_role": "engineer"
+        },
+        {
+            "id": "tt7625892",
+            "title": "Bruno Motoneta",
+            "release_year": "2018",
+            "plot": "A young boy named Bruno tries to help his aunt from a grave accident with the help of a scientist's secretary.",
+            "main_character_name": "Facundo Gamband\u00e9",
+            "main_character_gender": 0,
+            "main_character_role": "secretary"
+        },
+        {
+            "id": "tt6747424",
+            "title": "Veredas",
+            "release_year": "2017",
+            "plot": "Urban comedy that tells the story of Federico and Luc\u00eda, two young people who cross paths in a city marked by obsessions and persecutions, and where chance is present to guide them towards a change in their lives.",
+            "main_character_name": "Ezequiel Tronconi",
+            "main_character_gender": 0,
+            "main_character_role": "guide"
+        },
+        {
+            "id": "tt6107102",
+            "title": "Rey's Education",
+            "release_year": "2017",
+            "plot": "Escaping from his criminal baptism, Reynaldo Gal\u00edndez lands in the patio of the house inhabited by Carlos Vargas, a retired security guard. Vargas proposes a deal: the young boy will repair... See full summary",
+            "main_character_name": "Mat\u00edas Encinas",
+            "main_character_gender": 0,
+            "main_character_role": "security guard"
+        },
+        {
+            "id": "tt5613066",
+            "title": "Al Desierto",
+            "release_year": "2017",
+            "plot": "A kidnapping is the trigger for a relationship that will change as the days go by. Julia and Gwynfor cross the Patagonian desert on foot, while Commissioner Prieto and his assistants follow their footsteps.",
+            "main_character_name": "Valentina Bassi",
+            "main_character_gender": 1,
+            "main_character_role": "commissioner"
+        },
+        {
+            "id": "tt8170530",
+            "title": "Recetas para microondas",
+            "release_year": "2018",
+            "plot": "The story of a woman, her lovers, the man who raped her, and the son that came out from that rape.",
+            "main_character_name": "Dery Altamirano",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt5397532",
+            "title": "El cruce de la pampa",
+            "release_year": "2016",
+            "plot": "Alvarito a blind marathon runner and the intellectual Dr. Villafa\u00f1e are lost in the vast and desolate pampas.One, seeking to reach his goal, the other trying to find the present, but both longing to find themselves.",
+            "main_character_name": "Roly Serrano",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt10392720",
+            "title": "Krona 3 the Froggy Case",
+            "release_year": "2018",
+            "plot": "Detective Henry Chandler receives the most intriguing mission of his career: to investigate the history of the Froggy Invasion and find the Krona Crown.",
+            "main_character_name": "Luis Margani",
+            "main_character_gender": 0,
+            "main_character_role": "chandler"
+        },
+        {
+            "id": "tt7917826",
+            "title": "Unidad XV",
+            "release_year": "2018",
+            "plot": "In the 1950s, under a dictatorial government, a small group of political prisoners in Patagonia plan to escape.",
+            "main_character_name": "Carlos Belloso",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt9275702",
+            "title": "Salvador",
+            "release_year": "2016",
+            "plot": "Edgardo is a frustrated artist turned cab driver in Buenos Aires,. When he turns fifty, he decides to look for Salvador, his son.",
+            "main_character_name": "Mart\u00edn Fuentes",
+            "main_character_gender": 0,
+            "main_character_role": "driver"
+        }
+    ],
+    "2019_2022": [
+        {
+            "id": "tt15189534",
+            "title": "The Wrath of God",
+            "release_year": "2022",
+            "plot": "Luciana, a young woman immersed in a circle of mysterious deaths of relatives and the growing suspicion that the person responsible is an enigmatic writer, her former boss.",
+            "main_character_name": "Macarena Achaga",
+            "main_character_gender": 1,
+            "main_character_role": "writer"
+        },
+        {
+            "id": "tt13830148",
+            "title": "The Tale of King Crab",
+            "release_year": "2021",
+            "plot": "In the 19th century, a wandering drunkard in Italy is cast out of his village for a crime. He is exiled to Tierra del Fuego, where he searches for a mythical treasure, paving his way toward redemption.",
+            "main_character_name": "Gabriele Silli",
+            "main_character_gender": 0,
+            "main_character_role": "guide"
+        },
+        {
+            "id": "tt8561690",
+            "title": "4x4",
+            "release_year": "2019",
+            "plot": "A thug breaks into a specialized car with a special security system that keeps him trapped inside with no one being able to hear him crying for help.",
+            "main_character_name": "Peter Lanzani",
+            "main_character_gender": 0,
+            "main_character_role": "model"
+        },
+        {
+            "id": "tt10915060",
+            "title": "The Crimes That Bind",
+            "release_year": "2020",
+            "plot": "Desperate and confused, Alicia will do the impossible to keep her son from prison after he's convicted of trying to murder his ex-wife.",
+            "main_character_name": "Cecilia Roth",
+            "main_character_gender": 1,
+            "main_character_role": "maid"
+        },
+        {
+            "id": "tt14278608",
+            "title": "Amor bandido",
+            "release_year": "2021",
+            "plot": "Joan is a naive 16-year-old boy who falls in love easily. The son of a wealthy important federal judge with whom he has a quite tense relationship. One day, he decides to flee alongside ... See full summary",
+            "main_character_name": "Romina Ricci",
+            "main_character_gender": 1,
+            "main_character_role": "teacher"
+        },
+        {
+            "id": "tt13020336",
+            "title": "With Pleasure",
+            "release_year": "2020",
+            "plot": "Inside a fruit themed burlesque bar, time and space take a backseat to poetry and proverb.",
+            "main_character_name": "Alejandro Rose-Garcia",
+            "main_character_gender": 0,
+            "main_character_role": "cowboy"
+        },
+        {
+            "id": "tt7764804",
+            "title": "Holy Beasts",
+            "release_year": "2019",
+            "plot": "Fading actress Vera V. gathers with the remnants of her 70's social circle to shoot her last film: an unfinished script left behind by cherished friend J. L. Jorge.",
+            "main_character_name": "Geraldine Chaplin",
+            "main_character_gender": 1,
+            "main_character_role": "actress"
+        },
+        {
+            "id": "tt10380766",
+            "title": "Immortal",
+            "release_year": "II) (2020",
+            "plot": "Ana returns to Buenos Aires to claim her inheritance. She meets her father's close friend Dr. Benedetti, a scientist, where he has discovered a doorway to another dimension which allows Ana to reconvene with the dead.",
+            "main_character_name": "Bel\u00e9n Blanco",
+            "main_character_gender": 1,
+            "main_character_role": "scientist"
+        },
+        {
+            "id": "tt13140122",
+            "title": "The Teacher",
+            "release_year": "2020",
+            "plot": "Natalio is a passionate teacher. When Juani, a friend, comes to live in the town, the inhabitants confirm the rumors about his homosexuality. The parents of his students do not approve the ... See full summary",
+            "main_character_name": "Diego Vel\u00e1zquez",
+            "main_character_gender": 0,
+            "main_character_role": "teacher"
+        },
+        {
+            "id": "tt8684670",
+            "title": "Death Doesn't Exist, and Love Doesn't Either",
+            "release_year": "2019",
+            "plot": "Emilia is a young psychiatrist living in Buenos Aires with her boyfriend. She has a steady life but is not fully satisfied. She receives an invitation to go back to 28 de Noviembre, her ... See full summary",
+            "main_character_name": "Antonella Saldicco",
+            "main_character_gender": 1,
+            "main_character_role": "psychiatrist"
+        },
+        {
+            "id": "tt4208146",
+            "title": "The Retirement",
+            "release_year": "2019",
+            "plot": "Rodolfo is a recently retired doctor. Since his wife's death, he lives alone in his house. Due to an unexpected event, his daughter Laura, with whom he hardly ever talks, needs to move in with him for a few days.",
+            "main_character_name": "Luis Brandoni",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt3350042",
+            "title": "In the Country of Last Things",
+            "release_year": "2020",
+            "plot": "In a city in ruins, a woman looks for her missing brother. Adaptation to the big screen of the Paul Auster sci-fi novel \"In the Country of Last Things\".",
+            "main_character_name": "Maria de Medeiros",
+            "main_character_gender": 1,
+            "main_character_role": "founder"
+        },
+        {
+            "id": "tt9676274",
+            "title": "\u00c1mbar",
+            "release_year": "2020",
+            "plot": "Helmut is a private detective that is force to face his wounds and deepest secrets of the past when he wants to unravel the strange circumstances that surrounds the severe accident of his ... See full summary",
+            "main_character_name": "Freddy Viquez",
+            "main_character_gender": 0,
+            "main_character_role": "detective"
+        },
+        {
+            "id": "tt9584730",
+            "title": "No soy tu mami",
+            "release_year": "2019",
+            "plot": "Paula, a magazine journalist, decides to write about motherhood to increase sales. She expresses and establishes why she does not want to be a mother, but fate has something else in mind for her.",
+            "main_character_name": "Julieta D\u00edaz",
+            "main_character_gender": 1,
+            "main_character_role": "journalist"
+        },
+        {
+            "id": "tt11732324",
+            "title": "A Common Crime",
+            "release_year": "2020",
+            "plot": "Cecilia is a sociology teacher. One night the son of her maid desperately knocks on the door of her house. She doesn't open. The next day, his body shows up murdered by the police. Cecilia begins to be haunted by the young man's ghost.",
+            "main_character_name": "Elisa Carricajo",
+            "main_character_gender": 1,
+            "main_character_role": "teacher"
+        },
+        {
+            "id": "tt11312968",
+            "title": "The Hunter's Silence",
+            "release_year": "2019",
+            "plot": "Ismael Guzm\u00e1n, a busy ranger, patrols a mountain daily, searching for poachers. Orlando Venneck is a farm owner, and a hunter. Both venerate the mountain in their own way, but the use they make of it puts them in opposite places.",
+            "main_character_name": "Pablo Echarri",
+            "main_character_gender": 0,
+            "main_character_role": "ranger"
+        },
+        {
+            "id": "tt9351854",
+            "title": "Claudia",
+            "release_year": "I) (2019",
+            "plot": "Claudia Segovia is a very strict and demanding planner, but one day she has to organize a strange wedding where everything gets complicated.",
+            "main_character_name": "Dolores Fonzi",
+            "main_character_gender": 1,
+            "main_character_role": "planner"
+        },
+        {
+            "id": "tt11067026",
+            "title": "The Heat",
+            "release_year": "2020",
+            "plot": "Lola, a young playwright and drama director, goes into a crisis before her new play is released. Her leading actress raises time and again that she has problems with the text. A friend of ... See full summary",
+            "main_character_name": "Carolina Kopelioff",
+            "main_character_gender": 1,
+            "main_character_role": "director"
+        },
+        {
+            "id": "tt8987544",
+            "title": "The Adopters",
+            "release_year": "2019",
+            "plot": "Mart\u00edn a 42-year-old TV Presenter, tells Leonardo a 45-year-old agronomist and his partner for ten years, his desire to be a parent by adopting a baby. He feels deep down the need to be a ... See full summary",
+            "main_character_name": "Diego Gentile",
+            "main_character_gender": 0,
+            "main_character_role": "presenter"
+        },
+        {
+            "id": "tt14279936",
+            "title": "Canal 54",
+            "release_year": "2021",
+            "plot": "Who is Norberto Otero? Armengol Torres, the Space World Week organizer, proposes Lucas to start an investigation on a parallel broadcast about the moon landing in 1969 received by a radio ... See full summary",
+            "main_character_name": "Andr\u00e9s Larriera",
+            "main_character_gender": 0,
+            "main_character_role": "organizer"
+        },
+        {
+            "id": "tt9248118",
+            "title": "Killing the Dead",
+            "release_year": "2019",
+            "plot": "In 1978, Paraguay lives a dictatorship and, clandestinely, two men bury corpses. But one day they find a man who is still breathing. They have to kill him, but they never killed anyone before.",
+            "main_character_name": "Ever Enciso",
+            "main_character_gender": 0,
+            "main_character_role": "pastor"
+        },
+        {
+            "id": "tt15125820",
+            "title": "Bi\u00f3nica",
+            "release_year": "2022",
+            "plot": null,
+            "main_character_name": "Fabi\u00e1n Arenillas",
+            "main_character_gender": 0,
+            "main_character_role": "dr."
+        },
+        {
+            "id": "tt9881924",
+            "title": "El cuidado de los otros",
+            "release_year": "2019",
+            "plot": "Luisa works as a temporary child-care worker in a factory. When one kid she and her boyfriend are taking care of, is accidentally intoxicated with drugs, they will become involved.",
+            "main_character_name": "Sof\u00eda Gala Castiglione",
+            "main_character_gender": 1,
+            "main_character_role": "worker"
+        },
+        {
+            "id": "tt7082512",
+            "title": "Hora D\u00eda Mes",
+            "release_year": "2019",
+            "plot": "The story of Nardo, a manager of a garage that during the day is involved in a tedious routine and at night lets out his most grandiloquent obsessions.",
+            "main_character_name": "Marcelo Cohen",
+            "main_character_gender": 0,
+            "main_character_role": "narrator"
+        },
+        {
+            "id": "tt14695712",
+            "title": "Puto el que lee (murci\u00e9lagos)",
+            "release_year": "2020",
+            "plot": "In times of pandemic in Buenos Aires , a doctor finds mysterious messages when he arrives at his home. This short film is part of the feature film entitled Bats. Each short film was directed remotely by zoom.",
+            "main_character_name": "Oscar Mart\u00ednez",
+            "main_character_gender": 0,
+            "main_character_role": "doctor"
+        },
+        {
+            "id": "tt10963746",
+            "title": "TR3SH: la concha de su madre",
+            "release_year": "2019",
+            "plot": "The worrying disappearance of Ansio in TRASH (2010) plus Ana L' s absence (TRASH TWO 2013) turns an alert for the sexagenarian Mom Bruselas who, with a wheelchair in between, will launch ... See full summary",
+            "main_character_name": "Agust\u00edn Aguirre",
+            "main_character_gender": 0,
+            "main_character_role": "secretary"
+        },
+        {
+            "id": "tt7262500",
+            "title": "El Can\u00edbal",
+            "release_year": "2020",
+            "plot": null,
+            "main_character_name": "Alberto Ajaka",
+            "main_character_gender": 0,
+            "main_character_role": "narrator"
+        },
+        {
+            "id": "tt12578784",
+            "title": "Imaginary Portrait",
+            "release_year": "2020",
+            "plot": "Through the creation of a family portrait, a mentally imbalanced young artist connects with her dead mother to exact revenge on her ghoulish father and abusive grandfather.",
+            "main_character_name": "Mirko Buch\u00edn",
+            "main_character_gender": 0,
+            "main_character_role": "artist"
+        },
+        {
+            "id": "tt11290654",
+            "title": "El ultimo tango - Oriana Sabatini",
+            "release_year": "2019",
+            "plot": null,
+            "main_character_name": "Oriana Sabatini",
+            "main_character_gender": 1,
+            "main_character_role": "singer"
+        }
+    ]
 }

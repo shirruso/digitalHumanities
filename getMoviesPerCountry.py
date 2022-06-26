@@ -16,11 +16,8 @@ class Country:
 
 
 countries = [
-    # Country('Afghanistan', 'af', 'ps', 'Q889', 'Afghan'),
     # Country('Egypt', 'eg', 'ar', 'Q79', 'Egyptian'),
-    # Country('Lebanon', 'lb', 'ar', 'Q822', 'Lebanese'),
     # Country('Turkey', 'tr', 'tr', 'Q43', 'Turkish'),
-    # Country('Syria', 'sy', 'ar', 'Q858', 'Syrian'),
     # Country('France', 'fr', 'fr', 'Q142', 'French'),
     # Country('Germany', 'de', 'de', 'Q183', 'German'),
     # Country('Italy', 'it', 'it', 'Q38', 'Italian'),
@@ -31,14 +28,14 @@ countries = [
     # Country('Japan', 'jp', 'ja', 'Q17', 'Japanese'),
     # Country('India', 'in', 'hi', 'Q668', 'Indian'),
     # Country('China', 'cn', 'zh', 'Q148', 'Chinese'),
-    Country('United States', 'us', 'en', 'Q30', 'American'),
+    # Country('United States', 'us', 'en', 'Q30', 'American'),
     # Country('Mexico', 'mx', 'es', 'Q96', 'Mexican'),
     # Country('Canada', 'ca', 'en', 'Q16', 'Canadian'),
     # Country('Brazil', 'br', 'pt', 'Q155', 'Brazilian'),
-    # Country('Argentina', 'ar', 'es', 'Q414', 'Argentine'),
+    Country('Argentina', 'ar', 'es', 'Q414', 'Argentine'),
     # Country('Australia', 'au', 'en', 'Q408', 'Australian'),
-    Country('South Africa', 'za', 'af', 'Q258', 'South African'),
-    Country('Nigeria', 'ng', 'en', 'Q1033', 'Nigerian')
+    # Country('South Africa', 'za', 'af', 'Q258', 'South African'),
+
 ]
 
 years = ['1960_1979', '1980_1999', '2000_2009', '2010_2012', '2013_2015', '2016_2018', '2019_2022']
@@ -66,7 +63,7 @@ def get_movies_by_pages(country, years_range):
     num_of_pages = 3
     release_data_from, release_data_to = years_range[0:4], years_range[5:]
     for i in range(0, num_of_pages):
-        query = 'https://imdb-api.com/API/AdvancedSearch/k_sej8mhp2?title_type=feature,tv_movie,short,' \
+        query = 'https://imdb-api.com/API/AdvancedSearch/k_ay2kvfye?title_type=feature,tv_movie,short,' \
                 'tv_short&release_date=%s-01-01,' \
                 '%s-12-31&countries=%s&languages=%s&count=250&start=%d' % (
                     release_data_from, release_data_to, country.shortcut,
@@ -123,8 +120,11 @@ def get_data(movie_id, title, release_year, plot, main_character_name, main_char
 # The function receives movie_id and returns the name and role of the main character
 def get_name_and_role_imdb(movie_id):
     movie_id = int(movie_id[2:])
-    ia = imdb.IMDb()
-    result = ia.get_movie(movie_id)
+    try:
+        ia = imdb.IMDb()
+        result = ia.get_movie(movie_id)
+    except:
+        return None, None
     if not ('cast' in result.keys()):
         return None, None
     if len(result['cast']) == 0:
